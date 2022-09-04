@@ -1,8 +1,12 @@
 import pprint
 import pandas as pd
+import os
 import datetime
 import yfinance as yf
+import json
+from yahooquery import Ticker
 
+import pickle
 
 read_file = pd.read_excel(r"data_j.xls")
 read_file.to_csv(r"data_j.csv", index = None, header=False)
@@ -15,35 +19,50 @@ today = datetime.date.today()
 start = datetime.datetime.now() - datetime.timedelta(days=7)
 end = today
 
-# stocks.append("^N225")
-tickers = yf.Tickers(" ".join(stock_tickers))
+# tickers = yf.Tickers(" ".join(stock_tickers))
 
-closes   = [] # 終値
+today_yyyymmdd = today.strftime('%Y%m%d')
+tickers_fname = f"tickers_{today_yyyymmdd}.json"
 
-for idx, ticker in enumerate(tickers.tickers):
-    cursor = tickers.tickers[ticker]
+sd = None
+print(os.path.exists(tickers_fname))
+if os.path.exists(tickers_fname):
+    with open(tickers_fname, 'r', encoding='utf-8') as f:
+        sd = json.load(f)
+else:
+    tickers = Ticker(stock_tickers, progress=True)
+    sd = tickers.summary_detail
+    print(sd)
+    with open(tickers_fname, 'w', encoding="utf-8") as f:
+        json.dump(sd, f, indent = 4, ensure_ascii=False)
+
+# print("start")
+data = [] # 終値
+for idx, (ticker, detail) in enumerate(sd.items()):
     name = stock_names[idx]
-    dividendRate = cursor.info["dividendRate"]
-    dividendYield = cursor.info["dividendYield"]
-    print(ticker, name, dividendYield, cursor.history(period="1wk").Close.tail())
-    closes.append({
+    if "dividendYield" not in detail:
+        continue
+    dividendRate = detail["dividendRate"]
+    dividendYield = detail["dividendYield"]
+    previousClose = detail["previousClose"]
+    data.append({
       "ticker": ticker,
       "name": name,
       "dividendRate": dividendRate,
       "dividendYield": dividendYield,
-      "close": cursor.history(period="1wk").Close.tail(),
+      "previousClose": previousClose,
     })
-
-closes = pd.DataFrame(closes).T   # DataFrame化
-closes.columns = stocks           # カラム名の設定
-closes = closes.ffill()           # 欠損データの補完
-print(closes)
+    print(ticker, name, dividendYield, previousClose)
 
 
-today_yyyymmdd = today.strftime('%Y%m%d')
+# closes = pd.DataFrame(closes).T   # DataFrame化
+# closes.columns = stocks           # カラム名の設定
+# closes = closes.ffill()           # 欠損データの補完
+# print(closes)
+
 fname = f"stock_{today_yyyymmdd}.json"
-with open(fname, 'w') as f:
-    json.dump(d, f, indent=4)
+with open(fname, 'w', encoding="utf-8") as f:
+    json.dump(data, f, indent=4, ensure_ascii=False)
 
 # 会社概要(info)を出力
 # pprint.pprint(ticker_info.info)
