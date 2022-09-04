@@ -12,7 +12,7 @@ read_file = pd.read_excel(r"data_j.xls")
 read_file.to_csv(r"data_j.csv", index = None, header=False)
 codes = pd.read_csv(r"data_j.csv", usecols=[1,2])
 stock_tickers = [f"{row[1]}.T" for row in codes.itertuples()]
-stock_names = [f"{row[2]}.T" for row in codes.itertuples()]
+stock_names = [f"{row[2]}" for row in codes.itertuples()]
 
 
 today = datetime.date.today()
