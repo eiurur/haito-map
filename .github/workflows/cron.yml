@@ -1,8 +1,10 @@
-name: ActionsTest
+name: Cron
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    # 18:00 (JST) に処理を実行する。
+    # UTC の 10:00 は JST だと 18:00
+    - cron: '0 10 * * *'
 
 jobs:
   build:
