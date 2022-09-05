@@ -1,0 +1,1 @@
+[![Cron](https://github.com/eiurur/haito-map/actions/workflows/cron.yml/badge.svg)](https://github.com/eiurur/haito-map/actions/workflows/cron.yml)
