@@ -2,16 +2,17 @@ import pprint
 import pandas as pd
 import os
 import datetime
-import yfinance as yf
 import json
 from yahooquery import Ticker
 
 
 read_file = pd.read_excel(r"tosho.xls")
 read_file.to_csv(r"tosho.csv", index = None, header=False)
-codes = pd.read_csv(r"tosho.csv", usecols=[1,2])
+
+codes = pd.read_csv(r"tosho.csv", usecols=[1,2,3])
 stock_tickers = [f"{row[1]}.T" for row in codes.itertuples()]
 stock_names = [f"{row[2]}" for row in codes.itertuples()]
+stock_segments = [f"{row[3]}" for row in codes.itertuples()]
 
 today = datetime.date.today()
 today_yyyymmdd = today.strftime('%Y%m%d')
@@ -38,6 +39,7 @@ for idx, (ticker, detail) in enumerate(sd.items()):
         continue
     
     name = stock_names[idx]
+    segment = stock_segments[idx]
     dividendRate = detail["dividendRate"]
     dividendYield = detail["dividendYield"]
     previousClose = detail["previousClose"]
@@ -45,6 +47,7 @@ for idx, (ticker, detail) in enumerate(sd.items()):
     data.append({
       "ticker": ticker,
       "name": name,
+      "segment": segment,
       "dividendRate": dividendRate,
       "dividendYield": dividendYield,
       "previousClose": previousClose,
