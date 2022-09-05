@@ -57,3 +57,14 @@ stocks_fpath = os.path.join(db_dpath, f"stocks.json")
 with open(stocks_fpath, 'w', encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
+# dump latest files
+latest_dpath = f"./db/latest"
+os.makedirs(latest_dpath, exist_ok=True)
+
+latest_tickers_fpath = os.path.join(latest_dpath, f"tickers.json")
+with open(latest_tickers_fpath, 'w', encoding="utf-8") as f:
+    json.dump(sd, f, indent = 4, ensure_ascii=False)
+
+latest_stocks_fpath = os.path.join(latest_dpath, f"stocks.json")
+with open(latest_stocks_fpath, 'w', encoding="utf-8") as f:
+    json.dump(data, f, indent=4, ensure_ascii=False)
