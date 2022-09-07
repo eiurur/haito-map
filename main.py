@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import datetime
 import json
-import yfinance as yf
 from yahooquery import Ticker
 
 
@@ -34,61 +33,33 @@ else:
         json.dump(sd, f, indent = 4, ensure_ascii=False)
 
 # dump stocks
-stocks_provide_dividend = [] 
+data = [] 
 for idx, (ticker, detail) in enumerate(sd.items()):
-    if "trailingAnnualDividendYield" not in detail or "trailingPE" not in detail:
+    if "trailingAnnualDividendYield" not in detail:
         continue
-    if detail["trailingAnnualDividendYield"] < 0.03:
+    if "trailingPE" not in detail:
         continue
-    if detail["trailingPE"] < 25:
+    if not type(detail["trailingAnnualDividendYield"]) is float or detail["trailingAnnualDividendYield"] < 3.0:
         continue
-
+    # print(ticker)
+    # pprint.pprint(detail)
     name = stock_names[idx]
     segment = stock_segments[idx]
-    stocks_provide_dividend.append({
+    trailingAnnualDividendRate = detail["trailingAnnualDividendRate"]
+    trailingAnnualDividendYield = detail["trailingAnnualDividendYield"]
+    trailingPE = detail["trailingPE"]
+    previousClose = detail["previousClose"]
+
+    data.append({
       "ticker": ticker,
       "name": name,
       "segment": segment,
-    })
-
-print(len(stocks_provide_dividend))
-data = [] 
-for idx, stock in enumerate(stocks_provide_dividend):
-    ticker_info = yf.Ticker(stock["ticker"])
-    if "lastDividendValue" not in ticker_info.info or ticker_info.info["lastDividendValue"] is None:
-        continue
-    
-    dividendRate = ticker_info.info["lastDividendValue"] / ticker_info.info["regularMarketPrice"]
-    dividendYield = ticker_info.info["lastDividendValue"]
-    previousClose = ticker_info.info["previousClose"]
-    regularMarketPrice = ticker_info.info["regularMarketPrice"]
-
-    # https://indepth-markets.com/matplotlib/get_ticker_info/
-    trailingEps = ticker_info.info["trailingEps"] if "trailingEps" in ticker_info.info  else ""# 実質EPS
-    forwardEps = ticker_info.info["forwardEps"] if "forwardEps" in ticker_info.info  else ""# 予想EPS
-    trailingPE = ticker_info.info["trailingPE"] if "trailingPE" in ticker_info.info  else ""# 実質PER
-    forwardPE = ticker_info.info["forwardPE"] if "forwardPE" in ticker_info.info  else ""# 予想PER
-    pbr = ticker_info.info["priceToBook"]
-
-    data.append({
-      "ticker": stock["ticker"],
-      "name": stock["name"],
-      "segment": stock["segment"],
-      "dividendRate": dividendRate,
-      "dividendYield": dividendYield,
+      "trailingAnnualDividendRate": trailingAnnualDividendRate,
+      "trailingAnnualDividendYield": trailingAnnualDividendYield,
+      "eps": previousClose/trailingPE,
+      "per": trailingPE,
       "previousClose": previousClose,
-      "regularMarketPrice": regularMarketPrice,
-      "trailingEps": trailingEps,
-      "forwardEps": forwardEps,
-      "trailingPE": trailingPE,
-      "forwardPE": forwardPE,
-      "pbr": pbr
     })
-
-today = datetime.date.today()
-today_yyyymmdd = today.strftime('%Y%m%d')
-db_dpath = f"./db/{today_yyyymmdd}"
-os.makedirs(db_dpath, exist_ok=True)
 
 stocks_fpath = os.path.join(db_dpath, f"stocks.json")
 with open(stocks_fpath, 'w', encoding="utf-8") as f:
@@ -97,6 +68,10 @@ with open(stocks_fpath, 'w', encoding="utf-8") as f:
 # dump latest files
 latest_dpath = f"./db/latest"
 os.makedirs(latest_dpath, exist_ok=True)
+
+latest_tickers_fpath = os.path.join(latest_dpath, f"tickers.json")
+with open(latest_tickers_fpath, 'w', encoding="utf-8") as f:
+    json.dump(sd, f, indent = 4, ensure_ascii=False)
 
 latest_stocks_fpath = os.path.join(latest_dpath, f"stocks.json")
 with open(latest_stocks_fpath, 'w', encoding="utf-8") as f:
