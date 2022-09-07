@@ -36,8 +36,13 @@ else:
 # dump stocks
 stocks_provide_dividend = [] 
 for idx, (ticker, detail) in enumerate(sd.items()):
-    if "dividendYield" not in detail:
+    if "trailingAnnualDividendYield" not in detail or "trailingPE" not in detail:
         continue
+    if detail["trailingAnnualDividendYield"] < 0.03:
+        continue
+    if detail["trailingPE"] < 25:
+        continue
+
     name = stock_names[idx]
     segment = stock_segments[idx]
     stocks_provide_dividend.append({
