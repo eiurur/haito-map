@@ -39,7 +39,7 @@ for idx, (ticker, detail) in enumerate(sd.items()):
         continue
     if "trailingPE" not in detail:
         continue
-    if not type(detail["trailingAnnualDividendYield"]) is float or detail["trailingAnnualDividendYield"] < 3.0:
+    if not type(detail["trailingAnnualDividendYield"]) is float or detail["trailingAnnualDividendYield"] < 0.03:
         continue
     # print(ticker)
     # pprint.pprint(detail)
