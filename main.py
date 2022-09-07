@@ -64,10 +64,10 @@ for idx, stock in enumerate(stocks_provide_dividend):
     regularMarketPrice = ticker_info.info["regularMarketPrice"]
 
     # https://indepth-markets.com/matplotlib/get_ticker_info/
-    trailingEps = ticker_info.info["trailingEps"] # 実質EPS
-    forwardEps = ticker_info.info["forwardEps"] # 予想EPS
-    trailingPE = ticker_info.info["trailingPE"] # 実質PER
-    forwardPE = ticker_info.info["forwardPE"] # 予想PER
+    trailingEps = ticker_info.info["trailingEps"] if "trailingEps" in ticker_info.info  else ""# 実質EPS
+    forwardEps = ticker_info.info["forwardEps"] if "forwardEps" in ticker_info.info  else ""# 予想EPS
+    trailingPE = ticker_info.info["trailingPE"] if "trailingPE" in ticker_info.info  else ""# 実質PER
+    forwardPE = ticker_info.info["forwardPE"] if "forwardPE" in ticker_info.info  else ""# 予想PER
     pbr = ticker_info.info["priceToBook"]
 
     data.append({
