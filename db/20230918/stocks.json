@@ -1,0 +1,5102 @@
+[
+    {
+        "ticker": "4423.T",
+        "name": "アルテリア・ネットワークス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.52,
+        "trailingAnnualDividendYield": 0.03062753,
+        "eps": 116.19118930914047,
+        "per": 17.006453,
+        "previousClose": 1976.0
+    },
+    {
+        "ticker": "4465.T",
+        "name": "ニイタカ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 64.0,
+        "trailingAnnualDividendYield": 0.032388665,
+        "eps": 95.43638746999441,
+        "per": 20.704891,
+        "previousClose": 1976.0
+    },
+    {
+        "ticker": "4471.T",
+        "name": "三洋化成工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 170.0,
+        "trailingAnnualDividendYield": 0.040669855,
+        "eps": 275.8800027588,
+        "per": 15.151515,
+        "previousClose": 4180.0
+    },
+    {
+        "ticker": "4494.T",
+        "name": "バリオセキュア",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.5,
+        "trailingAnnualDividendYield": 0.051592357,
+        "eps": 80.3799997767791,
+        "per": 9.766111,
+        "previousClose": 785.0
+    },
+    {
+        "ticker": "4502.T",
+        "name": "武田薬品工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 180.0,
+        "trailingAnnualDividendYield": 0.03746098,
+        "eps": 189.31305168699402,
+        "per": 25.38124,
+        "previousClose": 4805.0
+    },
+    {
+        "ticker": "4521.T",
+        "name": "科研製薬",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 150.0,
+        "trailingAnnualDividendYield": 0.041220114,
+        "eps": 135.00418479583539,
+        "per": 26.95472,
+        "previousClose": 3639.0
+    },
+    {
+        "ticker": "4544.T",
+        "name": "Ｈ．Ｕ．グループホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 125.0,
+        "trailingAnnualDividendYield": 0.048262548,
+        "eps": 152.55501375292286,
+        "per": 16.977482,
+        "previousClose": 2590.0
+    },
+    {
+        "ticker": "4548.T",
+        "name": "生化学工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 26.0,
+        "trailingAnnualDividendYield": 0.0315534,
+        "eps": 47.87094550810768,
+        "per": 17.212946,
+        "previousClose": 824.0
+    },
+    {
+        "ticker": "4549.T",
+        "name": "栄研化学",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 51.0,
+        "trailingAnnualDividendYield": 0.037063953,
+        "eps": 114.20799783004804,
+        "per": 12.048193,
+        "previousClose": 1376.0
+    },
+    {
+        "ticker": "4619.T",
+        "name": "日本特殊塗料",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 42.0,
+        "trailingAnnualDividendYield": 0.03034682,
+        "eps": 116.39310712282506,
+        "per": 11.8907385,
+        "previousClose": 1384.0
+    },
+    {
+        "ticker": "4623.T",
+        "name": "アサヒペン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.030555556,
+        "eps": 163.6218161694351,
+        "per": 11.000978,
+        "previousClose": 1800.0
+    },
+    {
+        "ticker": "4634.T",
+        "name": "東洋インキＳＣホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.03773585,
+        "eps": 91.10581835753591,
+        "per": 26.17835,
+        "previousClose": 2385.0
+    },
+    {
+        "ticker": "4641.T",
+        "name": "アルプス技研",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 127.0,
+        "trailingAnnualDividendYield": 0.04897802,
+        "eps": 178.65505470820145,
+        "per": 14.514003,
+        "previousClose": 2593.0
+    },
+    {
+        "ticker": "4644.T",
+        "name": "イマジニア",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 32.0,
+        "trailingAnnualDividendYield": 0.031809144,
+        "eps": 37.318379865940216,
+        "per": 26.957226,
+        "previousClose": 1006.0
+    },
+    {
+        "ticker": "4658.T",
+        "name": "日本空調サービス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.03517588,
+        "eps": 56.996793142741595,
+        "per": 13.965698,
+        "previousClose": 796.0
+    },
+    {
+        "ticker": "4659.T",
+        "name": "エイジス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.034158837,
+        "eps": 213.121999786878,
+        "per": 10.989011,
+        "previousClose": 2342.0
+    },
+    {
+        "ticker": "4671.T",
+        "name": "ファルコホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 64.0,
+        "trailingAnnualDividendYield": 0.03201601,
+        "eps": 183.5043791819193,
+        "per": 10.893473,
+        "previousClose": 1999.0
+    },
+    {
+        "ticker": "4685.T",
+        "name": "菱友システムズ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.034951456,
+        "eps": 294.8329917087238,
+        "per": 8.733758,
+        "previousClose": 2575.0
+    },
+    {
+        "ticker": "4705.T",
+        "name": "クリップコーポレーション",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.051136363,
+        "eps": 20.243990697886275,
+        "per": 43.46969,
+        "previousClose": 880.0
+    },
+    {
+        "ticker": "4709.T",
+        "name": "ＩＤホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.03166784,
+        "eps": 92.78881383507986,
+        "per": 15.314346,
+        "previousClose": 1421.0
+    },
+    {
+        "ticker": "4714.T",
+        "name": "リソー教育",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 16.0,
+        "trailingAnnualDividendYield": 0.06584362,
+        "eps": 9.47204091298001,
+        "per": 25.65445,
+        "previousClose": 243.0
+    },
+    {
+        "ticker": "4728.T",
+        "name": "トーセ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.0339213,
+        "eps": 71.5587198038223,
+        "per": 10.299234,
+        "previousClose": 737.0
+    },
+    {
+        "ticker": "4745.T",
+        "name": "東京個別指導学院",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 23.0,
+        "trailingAnnualDividendYield": 0.047227927,
+        "eps": 18.363119796770413,
+        "per": 26.520548,
+        "previousClose": 487.0
+    },
+    {
+        "ticker": "4765.T",
+        "name": "モーニングスター",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 18.0,
+        "trailingAnnualDividendYield": 0.03197158,
+        "eps": 61.31219198927352,
+        "per": 9.182513,
+        "previousClose": 563.0
+    },
+    {
+        "ticker": "4767.T",
+        "name": "テー・オー・ダブリュー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 14.4,
+        "trailingAnnualDividendYield": 0.046451613,
+        "eps": 5.236217864972028,
+        "per": 59.203037,
+        "previousClose": 310.0
+    },
+    {
+        "ticker": "4769.T",
+        "name": "ＩＣ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 31.0,
+        "trailingAnnualDividendYield": 0.033842795,
+        "eps": 49.283238248785764,
+        "per": 18.586441,
+        "previousClose": 916.0
+    },
+    {
+        "ticker": "4784.T",
+        "name": "ＧＭＯアドパートナーズ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 12.5,
+        "trailingAnnualDividendYield": 0.030413626,
+        "eps": 12.737028034229693,
+        "per": 32.268124,
+        "previousClose": 411.0
+    },
+    {
+        "ticker": "4792.T",
+        "name": "山田コンサルティンググループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 56.0,
+        "trailingAnnualDividendYield": 0.033816423,
+        "eps": 117.41198461562678,
+        "per": 14.104182,
+        "previousClose": 1656.0
+    },
+    {
+        "ticker": "4800.T",
+        "name": "オリコン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 27.0,
+        "trailingAnnualDividendYield": 0.03409091,
+        "eps": 81.26000616426916,
+        "per": 9.746492,
+        "previousClose": 792.0
+    },
+    {
+        "ticker": "4839.T",
+        "name": "ＷＯＷＯＷ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.04347826,
+        "eps": 72.10034512240853,
+        "per": 15.949993,
+        "previousClose": 1150.0
+    },
+    {
+        "ticker": "4928.T",
+        "name": "ノエビアホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 215.0,
+        "trailingAnnualDividendYield": 0.037985865,
+        "eps": 223.57499578328077,
+        "per": 25.31589,
+        "previousClose": 5660.0
+    },
+    {
+        "ticker": "4972.T",
+        "name": "綜研化学",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.04509284,
+        "eps": 137.04246084347926,
+        "per": 13.754861,
+        "previousClose": 1885.0
+    },
+    {
+        "ticker": "5009.T",
+        "name": "富士興産",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.03647733,
+        "eps": 69.46578925715733,
+        "per": 27.625109,
+        "previousClose": 1919.0
+    },
+    {
+        "ticker": "5018.T",
+        "name": "ＭＯＲＥＳＣＯ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.033472802,
+        "eps": 56.16400679570382,
+        "per": 21.276972,
+        "previousClose": 1195.0
+    },
+    {
+        "ticker": "5019.T",
+        "name": "出光興産",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.03327787,
+        "eps": 402.0699802466118,
+        "per": 8.968588,
+        "previousClose": 3606.0
+    },
+    {
+        "ticker": "5074.T",
+        "name": "テスホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 26.0,
+        "trailingAnnualDividendYield": 0.05284553,
+        "eps": 60.614400872847376,
+        "per": 8.116883,
+        "previousClose": 492.0
+    },
+    {
+        "ticker": "5076.T",
+        "name": "インフロニア・ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.03454774,
+        "eps": 134.2076274612073,
+        "per": 11.862217,
+        "previousClose": 1592.0
+    },
+    {
+        "ticker": "5108.T",
+        "name": "ブリヂストン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 190.0,
+        "trailingAnnualDividendYield": 0.03193814,
+        "eps": 530.0518647151539,
+        "per": 11.22343,
+        "previousClose": 5949.0
+    },
+    {
+        "ticker": "5121.T",
+        "name": "藤倉コンポジット",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.0353045,
+        "eps": 160.7691422801659,
+        "per": 7.0473723,
+        "previousClose": 1133.0
+    },
+    {
+        "ticker": "5162.T",
+        "name": "朝日ラバー",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.036764707,
+        "eps": 30.953100590293836,
+        "per": 17.574976,
+        "previousClose": 544.0
+    },
+    {
+        "ticker": "5185.T",
+        "name": "フコク",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.033852402,
+        "eps": 101.02326236739842,
+        "per": 14.620395,
+        "previousClose": 1477.0
+    },
+    {
+        "ticker": "5186.T",
+        "name": "ニッタ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.031976745,
+        "eps": 375.3005541029024,
+        "per": 9.165987,
+        "previousClose": 3440.0
+    },
+    {
+        "ticker": "5192.T",
+        "name": "三ツ星ベルト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 250.0,
+        "trailingAnnualDividendYield": 0.051124744,
+        "eps": 253.30597974090892,
+        "per": 19.304716,
+        "previousClose": 4890.0
+    },
+    {
+        "ticker": "5195.T",
+        "name": "バンドー化学",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 52.0,
+        "trailingAnnualDividendYield": 0.031137725,
+        "eps": 125.2499937375003,
+        "per": 13.333334,
+        "previousClose": 1670.0
+    },
+    {
+        "ticker": "5208.T",
+        "name": "有沢製作所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.08522727,
+        "eps": 44.66701816564485,
+        "per": 23.641605,
+        "previousClose": 1056.0
+    },
+    {
+        "ticker": "5217.T",
+        "name": "テクノクオーツ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 130.0,
+        "trailingAnnualDividendYield": 0.031325303,
+        "eps": 733.3005380128864,
+        "per": 5.659344,
+        "previousClose": 4150.0
+    },
+    {
+        "ticker": "5232.T",
+        "name": "住友大阪セメント",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.031185031,
+        "eps": 16.550220154916598,
+        "per": 232.50446,
+        "previousClose": 3848.0
+    },
+    {
+        "ticker": "5237.T",
+        "name": "ノザワ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.03995434,
+        "eps": 16.991207787031737,
+        "per": 51.556076,
+        "previousClose": 876.0
+    },
+    {
+        "ticker": "5279.T",
+        "name": "日本興業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.032216493,
+        "eps": 75.19341956804094,
+        "per": 10.320052,
+        "previousClose": 776.0
+    },
+    {
+        "ticker": "5280.T",
+        "name": "ヨシコン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.04180602,
+        "eps": 103.8124019624884,
+        "per": 11.5207815,
+        "previousClose": 1196.0
+    },
+    {
+        "ticker": "5284.T",
+        "name": "ヤマウホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 65.0,
+        "trailingAnnualDividendYield": 0.04265092,
+        "eps": 254.81361988830335,
+        "per": 5.980842,
+        "previousClose": 1524.0
+    },
+    {
+        "ticker": "5288.T",
+        "name": "アジアパイルホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.03660322,
+        "eps": 111.87620274084247,
+        "per": 6.1049623,
+        "previousClose": 683.0
+    },
+    {
+        "ticker": "5331.T",
+        "name": "ノリタケカンパニーリミテド",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 205.0,
+        "trailingAnnualDividendYield": 0.032232706,
+        "eps": 705.9600007059599,
+        "per": 9.009009,
+        "previousClose": 6360.0
+    },
+    {
+        "ticker": "5333.T",
+        "name": "日本碍子",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 66.0,
+        "trailingAnnualDividendYield": 0.033099297,
+        "eps": 157.92916061363954,
+        "per": 12.625914,
+        "previousClose": 1994.0
+    },
+    {
+        "ticker": "5334.T",
+        "name": "日本特殊陶業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 166.0,
+        "trailingAnnualDividendYield": 0.0471859,
+        "eps": 325.7701505459984,
+        "per": 10.799025,
+        "previousClose": 3518.0
+    },
+    {
+        "ticker": "5363.T",
+        "name": "東京窯業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 12.0,
+        "trailingAnnualDividendYield": 0.034285713,
+        "eps": 51.8020221437364,
+        "per": 6.756493,
+        "previousClose": 350.0
+    },
+    {
+        "ticker": "5367.T",
+        "name": "ニッカトー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 23.0,
+        "trailingAnnualDividendYield": 0.036277603,
+        "eps": 67.32760999090759,
+        "per": 9.416642,
+        "previousClose": 634.0
+    },
+    {
+        "ticker": "5391.T",
+        "name": "エーアンドエーマテリアル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.037656903,
+        "eps": 266.00960439363274,
+        "per": 4.492319,
+        "previousClose": 1195.0
+    },
+    {
+        "ticker": "5401.T",
+        "name": "日本製鉄",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 180.0,
+        "trailingAnnualDividendYield": 0.04949134,
+        "eps": 616.474500473865,
+        "per": 5.8996763,
+        "previousClose": 3637.0
+    },
+    {
+        "ticker": "5408.T",
+        "name": "中山製鋼所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.055837564,
+        "eps": 186.3644069335884,
+        "per": 5.285344,
+        "previousClose": 985.0
+    },
+    {
+        "ticker": "5410.T",
+        "name": "合同製鐵",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 200.0,
+        "trailingAnnualDividendYield": 0.041025642,
+        "eps": 1111.9849855795508,
+        "per": 4.384052,
+        "previousClose": 4875.0
+    },
+    {
+        "ticker": "5411.T",
+        "name": "ＪＦＥホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.03491925,
+        "eps": 237.5776988479193,
+        "per": 9.643161,
+        "previousClose": 2291.0
+    },
+    {
+        "ticker": "5440.T",
+        "name": "共英製鋼",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.035394054,
+        "eps": 345.3930041828739,
+        "per": 6.1350403,
+        "previousClose": 2119.0
+    },
+    {
+        "ticker": "5444.T",
+        "name": "大和工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 300.0,
+        "trailingAnnualDividendYield": 0.041248452,
+        "eps": 1022.5788445829191,
+        "per": 7.11241,
+        "previousClose": 7273.0
+    },
+    {
+        "ticker": "5446.T",
+        "name": "北越メタル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.052926525,
+        "eps": 312.5298287439677,
+        "per": 5.1387095,
+        "previousClose": 1606.0
+    },
+    {
+        "ticker": "5451.T",
+        "name": "淀川製鋼所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 111.0,
+        "trailingAnnualDividendYield": 0.03091922,
+        "eps": 315.2010214269089,
+        "per": 11.389557,
+        "previousClose": 3590.0
+    },
+    {
+        "ticker": "5458.T",
+        "name": "高砂鐵工",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.043263286,
+        "eps": 115.20239744021127,
+        "per": 7.0224233,
+        "previousClose": 809.0
+    },
+    {
+        "ticker": "5464.T",
+        "name": "モリ工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 180.0,
+        "trailingAnnualDividendYield": 0.04522613,
+        "eps": 676.5999932340001,
+        "per": 5.882353,
+        "previousClose": 3980.0
+    },
+    {
+        "ticker": "5471.T",
+        "name": "大同特殊鋼",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 230.0,
+        "trailingAnnualDividendYield": 0.03645008,
+        "eps": 769.8180569792241,
+        "per": 8.196742,
+        "previousClose": 6310.0
+    },
+    {
+        "ticker": "5480.T",
+        "name": "日本冶金工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 200.0,
+        "trailingAnnualDividendYield": 0.04106776,
+        "eps": 1468.3049935394579,
+        "per": 3.3167496,
+        "previousClose": 4870.0
+    },
+    {
+        "ticker": "5481.T",
+        "name": "山陽特殊製鋼",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.03407155,
+        "eps": 327.54678506413444,
+        "per": 8.960552,
+        "previousClose": 2935.0
+    },
+    {
+        "ticker": "5563.T",
+        "name": "新日本電工",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 12.0,
+        "trailingAnnualDividendYield": 0.04152249,
+        "eps": 22.422074369287994,
+        "per": 12.889084,
+        "previousClose": 289.0
+    },
+    {
+        "ticker": "5602.T",
+        "name": "栗本鐵工所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.032490976,
+        "eps": 413.8338222647975,
+        "per": 6.693508,
+        "previousClose": 2770.0
+    },
+    {
+        "ticker": "5632.T",
+        "name": "三菱製鋼",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.031725887,
+        "eps": 117.25161907299947,
+        "per": 13.441179,
+        "previousClose": 1576.0
+    },
+    {
+        "ticker": "5658.T",
+        "name": "日亜鋼業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.031847134,
+        "eps": 26.474311402317294,
+        "per": 11.860554,
+        "previousClose": 314.0
+    },
+    {
+        "ticker": "5659.T",
+        "name": "日本精線",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 210.0,
+        "trailingAnnualDividendYield": 0.04312115,
+        "eps": 416.87396230911537,
+        "per": 11.682188,
+        "previousClose": 4870.0
+    },
+    {
+        "ticker": "5660.T",
+        "name": "神鋼鋼線工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.042938933,
+        "eps": 136.65562989900002,
+        "per": 7.668912,
+        "previousClose": 1048.0
+    },
+    {
+        "ticker": "5697.T",
+        "name": "サンユウ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 32.0,
+        "trailingAnnualDividendYield": 0.05079365,
+        "eps": 112.89321108611333,
+        "per": 5.580495,
+        "previousClose": 630.0
+    },
+    {
+        "ticker": "5702.T",
+        "name": "大紀アルミニウム工業所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.040268455,
+        "eps": 166.1305518544741,
+        "per": 8.96885,
+        "previousClose": 1490.0
+    },
+    {
+        "ticker": "5713.T",
+        "name": "住友金属鉱山",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 205.0,
+        "trailingAnnualDividendYield": 0.043738,
+        "eps": 382.9289036566565,
+        "per": 12.23987,
+        "previousClose": 4687.0
+    },
+    {
+        "ticker": "5729.T",
+        "name": "日本精鉱",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.045592707,
+        "eps": 83.70179987173144,
+        "per": 31.444963,
+        "previousClose": 2632.0
+    },
+    {
+        "ticker": "5801.T",
+        "name": "古河電気工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.030935809,
+        "eps": 153.35340487848848,
+        "per": 16.86301,
+        "previousClose": 2586.0
+    },
+    {
+        "ticker": "5816.T",
+        "name": "オーナンバ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.043132804,
+        "eps": 204.30619009260147,
+        "per": 4.3121552,
+        "previousClose": 881.0
+    },
+    {
+        "ticker": "5857.T",
+        "name": "アサヒホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.046511628,
+        "eps": 107.38853070512808,
+        "per": 18.018684,
+        "previousClose": 1935.0
+    },
+    {
+        "ticker": "5901.T",
+        "name": "東洋製罐グループホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 89.0,
+        "trailingAnnualDividendYield": 0.033097807,
+        "eps": 41.68242610631266,
+        "per": 64.5116,
+        "previousClose": 2689.0
+    },
+    {
+        "ticker": "5905.T",
+        "name": "日本製罐",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.04117647,
+        "eps": 260.77544462328353,
+        "per": 6.5190187,
+        "previousClose": 1700.0
+    },
+    {
+        "ticker": "5909.T",
+        "name": "コロナ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.030237582,
+        "eps": 44.816024894091896,
+        "per": 20.662252,
+        "previousClose": 926.0
+    },
+    {
+        "ticker": "5911.T",
+        "name": "横河ブリッジホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.030303031,
+        "eps": 298.45319846866374,
+        "per": 9.3984585,
+        "previousClose": 2805.0
+    },
+    {
+        "ticker": "5915.T",
+        "name": "駒井ハルテック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.037037037,
+        "eps": 57.08020266794075,
+        "per": 33.111305,
+        "previousClose": 1890.0
+    },
+    {
+        "ticker": "5930.T",
+        "name": "文化シヤッター",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 42.0,
+        "trailingAnnualDividendYield": 0.03720106,
+        "eps": 113.91828134142662,
+        "per": 9.910613,
+        "previousClose": 1129.0
+    },
+    {
+        "ticker": "5933.T",
+        "name": "アルインコ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.03679853,
+        "eps": 91.73964272515182,
+        "per": 11.848749,
+        "previousClose": 1087.0
+    },
+    {
+        "ticker": "5938.T",
+        "name": "ＬＩＸＩＬ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.048635505,
+        "eps": 37.56059627350171,
+        "per": 49.267056,
+        "previousClose": 1850.5
+    },
+    {
+        "ticker": "5942.T",
+        "name": "日本フイルコン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 18.0,
+        "trailingAnnualDividendYield": 0.037190083,
+        "eps": 63.93999574878293,
+        "per": 7.569597,
+        "previousClose": 484.0
+    },
+    {
+        "ticker": "5943.T",
+        "name": "ノーリツ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.0375,
+        "eps": 115.68388626133829,
+        "per": 13.830794,
+        "previousClose": 1600.0
+    },
+    {
+        "ticker": "5945.T",
+        "name": "天龍製鋸",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.03448276,
+        "eps": 285.50253054586204,
+        "per": 11.173281,
+        "previousClose": 3190.0
+    },
+    {
+        "ticker": "5957.T",
+        "name": "日東精工",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.04496403,
+        "eps": 44.69803702460602,
+        "per": 12.439025,
+        "previousClose": 556.0
+    },
+    {
+        "ticker": "5958.T",
+        "name": "三洋工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.038990825,
+        "eps": 551.5400237162211,
+        "per": 3.952569,
+        "previousClose": 2180.0
+    },
+    {
+        "ticker": "5966.T",
+        "name": "京都機械工具",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.0330033,
+        "eps": 247.73479178772598,
+        "per": 8.561575,
+        "previousClose": 2121.0
+    },
+    {
+        "ticker": "5970.T",
+        "name": "ジーテクト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 58.0,
+        "trailingAnnualDividendYield": 0.031419285,
+        "eps": 228.90400366246408,
+        "per": 8.064516,
+        "previousClose": 1846.0
+    },
+    {
+        "ticker": "5982.T",
+        "name": "マルゼン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.03391473,
+        "eps": 173.37401798822637,
+        "per": 11.904898,
+        "previousClose": 2064.0
+    },
+    {
+        "ticker": "5983.T",
+        "name": "イワブチ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 200.0,
+        "trailingAnnualDividendYield": 0.035971224,
+        "eps": 770.6139936294062,
+        "per": 7.215026,
+        "previousClose": 5560.0
+    },
+    {
+        "ticker": "5984.T",
+        "name": "兼房",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.037837837,
+        "eps": 78.1439997499392,
+        "per": 9.469697,
+        "previousClose": 740.0
+    },
+    {
+        "ticker": "5988.T",
+        "name": "パイオラックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.04145937,
+        "eps": 96.24246205455391,
+        "per": 25.061703,
+        "previousClose": 2412.0
+    },
+    {
+        "ticker": "6023.T",
+        "name": "ダイハツディーゼル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.031007752,
+        "eps": 93.46049757002707,
+        "per": 9.661836,
+        "previousClose": 903.0
+    },
+    {
+        "ticker": "6032.T",
+        "name": "インターワークス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 15.0,
+        "trailingAnnualDividendYield": 0.041899443,
+        "eps": 2.2903747321765024,
+        "per": 156.3063,
+        "previousClose": 358.0
+    },
+    {
+        "ticker": "6035.T",
+        "name": "アイ・アールジャパンホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 113.0,
+        "trailingAnnualDividendYield": 0.048352588,
+        "eps": 47.91293745670255,
+        "per": 48.77597,
+        "previousClose": 2337.0
+    },
+    {
+        "ticker": "6042.T",
+        "name": "ニッキ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.030007502,
+        "eps": 455.35473944690625,
+        "per": 5.854776,
+        "previousClose": 2666.0
+    },
+    {
+        "ticker": "6045.T",
+        "name": "レントラックス",
+        "segment": "グロース（内国株式）",
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.04109589,
+        "eps": 8.327781750450182,
+        "per": 61.360878,
+        "previousClose": 511.0
+    },
+    {
+        "ticker": "6060.T",
+        "name": "こころネット",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.03033367,
+        "eps": 46.68234828543617,
+        "per": 21.185738,
+        "previousClose": 989.0
+    },
+    {
+        "ticker": "6070.T",
+        "name": "キャリアリンク",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.045230262,
+        "eps": 463.53941351552464,
+        "per": 5.2465873,
+        "previousClose": 2432.0
+    },
+    {
+        "ticker": "6073.T",
+        "name": "アサンテ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 62.0,
+        "trailingAnnualDividendYield": 0.038224414,
+        "eps": 74.45458914998335,
+        "per": 21.785091,
+        "previousClose": 1622.0
+    },
+    {
+        "ticker": "6089.T",
+        "name": "ウィルグループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 44.0,
+        "trailingAnnualDividendYield": 0.039783,
+        "eps": 140.12661060081882,
+        "per": 7.892862,
+        "previousClose": 1106.0
+    },
+    {
+        "ticker": "6101.T",
+        "name": "ツガミ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 46.0,
+        "trailingAnnualDividendYield": 0.038429406,
+        "eps": 127.47605191438254,
+        "per": 9.389999,
+        "previousClose": 1197.0
+    },
+    {
+        "ticker": "6113.T",
+        "name": "アマダ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.031078018,
+        "eps": 106.88295060886605,
+        "per": 14.450387,
+        "previousClose": 1544.5
+    },
+    {
+        "ticker": "6125.T",
+        "name": "岡本工作機械製作所",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 180.0,
+        "trailingAnnualDividendYield": 0.032608695,
+        "eps": 888.7200177744004,
+        "per": 6.21118,
+        "previousClose": 5520.0
+    },
+    {
+        "ticker": "6134.T",
+        "name": "ＦＵＪＩ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.03258656,
+        "eps": 184.6120203555996,
+        "per": 13.298159,
+        "previousClose": 2455.0
+    },
+    {
+        "ticker": "6141.T",
+        "name": "ＤＭＧ森精機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.03731343,
+        "eps": 214.4,
+        "per": 12.5,
+        "previousClose": 2680.0
+    },
+    {
+        "ticker": "6143.T",
+        "name": "ソディック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.037837837,
+        "eps": 33.30490114925312,
+        "per": 22.218952,
+        "previousClose": 740.0
+    },
+    {
+        "ticker": "6158.T",
+        "name": "和井田製作所",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 37.0,
+        "trailingAnnualDividendYield": 0.03500473,
+        "eps": 151.3664148427873,
+        "per": 6.983055,
+        "previousClose": 1057.0
+    },
+    {
+        "ticker": "6165.T",
+        "name": "パンチ工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 19.5,
+        "trailingAnnualDividendYield": 0.042207792,
+        "eps": 46.2,
+        "per": 10.0,
+        "previousClose": 462.0
+    },
+    {
+        "ticker": "6167.T",
+        "name": "冨士ダイス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 32.0,
+        "trailingAnnualDividendYield": 0.04826546,
+        "eps": 65.57342675947696,
+        "per": 10.110803,
+        "previousClose": 663.0
+    },
+    {
+        "ticker": "6171.T",
+        "name": "土木管理総合試験所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 11.5,
+        "trailingAnnualDividendYield": 0.03382353,
+        "eps": 25.2299992705562,
+        "per": 13.476021,
+        "previousClose": 340.0
+    },
+    {
+        "ticker": "6178.T",
+        "name": "日本郵政",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.040567953,
+        "eps": 85.53300630230785,
+        "per": 14.409642,
+        "previousClose": 1232.5
+    },
+    {
+        "ticker": "6183.T",
+        "name": "ベルシステム２４ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.036585364,
+        "eps": 132.0250403199643,
+        "per": 12.421886,
+        "previousClose": 1640.0
+    },
+    {
+        "ticker": "6186.T",
+        "name": "一蔵",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.03633218,
+        "eps": 104.32652759170423,
+        "per": 5.5402975,
+        "previousClose": 578.0
+    },
+    {
+        "ticker": "6189.T",
+        "name": "グローバルキッズＣＯＭＰＡＮＹ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.036390103,
+        "eps": 1.1650876647912203,
+        "per": 589.6552,
+        "previousClose": 687.0
+    },
+    {
+        "ticker": "6197.T",
+        "name": "ソラスト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.031595577,
+        "eps": 59.4383051988892,
+        "per": 10.649698,
+        "previousClose": 633.0
+    },
+    {
+        "ticker": "6210.T",
+        "name": "東洋機械金属",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.042313118,
+        "eps": 17.585979316308716,
+        "per": 40.316208,
+        "previousClose": 709.0
+    },
+    {
+        "ticker": "6236.T",
+        "name": "ＮＣホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 65.0,
+        "trailingAnnualDividendYield": 0.03925121,
+        "eps": 36.9285029840505,
+        "per": 44.84341,
+        "previousClose": 1656.0
+    },
+    {
+        "ticker": "6237.T",
+        "name": "イワキポンプ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 61.0,
+        "trailingAnnualDividendYield": 0.03192046,
+        "eps": 211.93270986744722,
+        "per": 9.017013,
+        "previousClose": 1911.0
+    },
+    {
+        "ticker": "6247.T",
+        "name": "日阪製作所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.030612245,
+        "eps": 71.24460249437531,
+        "per": 13.755428,
+        "previousClose": 980.0
+    },
+    {
+        "ticker": "6257.T",
+        "name": "藤商事",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.035816617,
+        "eps": 355.703209192064,
+        "per": 3.9246202,
+        "previousClose": 1396.0
+    },
+    {
+        "ticker": "6262.T",
+        "name": "ペガサスミシン製造",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 27.0,
+        "trailingAnnualDividendYield": 0.04411765,
+        "eps": 71.17590030535857,
+        "per": 8.598416,
+        "previousClose": 612.0
+    },
+    {
+        "ticker": "6265.T",
+        "name": "コンバム",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.033670034,
+        "eps": 214.9100025169314,
+        "per": 8.291843,
+        "previousClose": 1782.0
+    },
+    {
+        "ticker": "6287.T",
+        "name": "サトーホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 72.0,
+        "trailingAnnualDividendYield": 0.03366059,
+        "eps": 130.91157727764266,
+        "per": 16.339273,
+        "previousClose": 2139.0
+    },
+    {
+        "ticker": "6292.T",
+        "name": "カワタ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 41.0,
+        "trailingAnnualDividendYield": 0.03693694,
+        "eps": 39.1859102435076,
+        "per": 28.326508,
+        "previousClose": 1110.0
+    },
+    {
+        "ticker": "6301.T",
+        "name": "小松製作所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 139.0,
+        "trailingAnnualDividendYield": 0.03164125,
+        "eps": 366.37264559914144,
+        "per": 11.990524,
+        "previousClose": 4393.0
+    },
+    {
+        "ticker": "6302.T",
+        "name": "住友重機械工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 125.0,
+        "trailingAnnualDividendYield": 0.03286015,
+        "eps": 360.6199933639854,
+        "per": 10.5485,
+        "previousClose": 3804.0
+    },
+    {
+        "ticker": "6306.T",
+        "name": "日工",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.04418262,
+        "eps": 23.424018899285,
+        "per": 28.98734,
+        "previousClose": 679.0
+    },
+    {
+        "ticker": "6307.T",
+        "name": "サンセイ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 14.0,
+        "trailingAnnualDividendYield": 0.037037037,
+        "eps": 46.45678523470631,
+        "per": 8.136594,
+        "previousClose": 378.0
+    },
+    {
+        "ticker": "6319.T",
+        "name": "シンニッタン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.03968254,
+        "eps": 25.909998740486174,
+        "per": 9.725975,
+        "previousClose": 252.0
+    },
+    {
+        "ticker": "6333.T",
+        "name": "帝国電機製作所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 116.0,
+        "trailingAnnualDividendYield": 0.04388952,
+        "eps": 216.19524025278892,
+        "per": 12.225061,
+        "previousClose": 2643.0
+    },
+    {
+        "ticker": "6337.T",
+        "name": "テセック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.031847134,
+        "eps": 414.7950252073843,
+        "per": 7.570004,
+        "previousClose": 3140.0
+    },
+    {
+        "ticker": "6339.T",
+        "name": "新東工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 36.0,
+        "trailingAnnualDividendYield": 0.032229185,
+        "eps": 125.6575647991425,
+        "per": 8.889238,
+        "previousClose": 1117.0
+    },
+    {
+        "ticker": "6342.T",
+        "name": "太平製作所",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.031152649,
+        "eps": 458.3890061180295,
+        "per": 5.6022286,
+        "previousClose": 2568.0
+    },
+    {
+        "ticker": "6345.T",
+        "name": "アイチ　コーポレーション",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 36.0,
+        "trailingAnnualDividendYield": 0.037656903,
+        "eps": 77.33567907440518,
+        "per": 12.361694,
+        "previousClose": 956.0
+    },
+    {
+        "ticker": "6349.T",
+        "name": "小森コーポレーション",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.040467627,
+        "eps": 85.85033599752455,
+        "per": 12.952774,
+        "previousClose": 1112.0
+    },
+    {
+        "ticker": "6358.T",
+        "name": "酒井重工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 200.0,
+        "trailingAnnualDividendYield": 0.03846154,
+        "eps": 410.7999950704001,
+        "per": 12.658228,
+        "previousClose": 5200.0
+    },
+    {
+        "ticker": "6365.T",
+        "name": "電業社機械製作所",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 122.5,
+        "trailingAnnualDividendYield": 0.034313727,
+        "eps": 417.3285571619133,
+        "per": 8.554411,
+        "previousClose": 3570.0
+    },
+    {
+        "ticker": "6369.T",
+        "name": "トーヨーカネツ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 147.0,
+        "trailingAnnualDividendYield": 0.042670537,
+        "eps": 185.33902165421506,
+        "per": 18.587559,
+        "previousClose": 3445.0
+    },
+    {
+        "ticker": "6371.T",
+        "name": "椿本チエイン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 130.0,
+        "trailingAnnualDividendYield": 0.032581452,
+        "eps": 352.7199659832975,
+        "per": 11.31209,
+        "previousClose": 3990.0
+    },
+    {
+        "ticker": "6379.T",
+        "name": "レイズネクスト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 72.0,
+        "trailingAnnualDividendYield": 0.04828974,
+        "eps": 129.71207833461176,
+        "per": 11.494689,
+        "previousClose": 1491.0
+    },
+    {
+        "ticker": "6381.T",
+        "name": "アネスト岩田",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.031719532,
+        "eps": 120.87740448162562,
+        "per": 9.910868,
+        "previousClose": 1198.0
+    },
+    {
+        "ticker": "6382.T",
+        "name": "トリニティ工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.032930844,
+        "eps": 96.29035844957937,
+        "per": 9.460968,
+        "previousClose": 911.0
+    },
+    {
+        "ticker": "6383.T",
+        "name": "ダイフク",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.03972553,
+        "eps": 109.92963986946758,
+        "per": 25.188839,
+        "previousClose": 2769.0
+    },
+    {
+        "ticker": "6384.T",
+        "name": "昭和真空",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.042857144,
+        "eps": 85.82259733508576,
+        "per": 16.31272,
+        "previousClose": 1400.0
+    },
+    {
+        "ticker": "6392.T",
+        "name": "ヤマダコーポレーション",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 130.0,
+        "trailingAnnualDividendYield": 0.03217822,
+        "eps": 670.2379510626755,
+        "per": 6.02771,
+        "previousClose": 4040.0
+    },
+    {
+        "ticker": "6393.T",
+        "name": "油研工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.03494976,
+        "eps": 277.4315774827369,
+        "per": 8.250683,
+        "previousClose": 2289.0
+    },
+    {
+        "ticker": "6403.T",
+        "name": "水道機工",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.03897945,
+        "eps": 2.400000272147444,
+        "per": 587.9166,
+        "previousClose": 1411.0
+    },
+    {
+        "ticker": "6407.T",
+        "name": "ＣＫＤ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 89.0,
+        "trailingAnnualDividendYield": 0.042100284,
+        "eps": 201.67520161080674,
+        "per": 10.482201,
+        "previousClose": 2114.0
+    },
+    {
+        "ticker": "6412.T",
+        "name": "平和",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.035666518,
+        "eps": 204.55802334387343,
+        "per": 10.965104,
+        "previousClose": 2243.0
+    },
+    {
+        "ticker": "6413.T",
+        "name": "理想科学工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.050083473,
+        "eps": 133.46158122340375,
+        "per": 17.952732,
+        "previousClose": 2396.0
+    },
+    {
+        "ticker": "6436.T",
+        "name": "アマノ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.032983508,
+        "eps": 163.7523736115235,
+        "per": 20.366117,
+        "previousClose": 3335.0
+    },
+    {
+        "ticker": "6461.T",
+        "name": "日本ピストンリング",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.04002287,
+        "eps": 268.3015316504532,
+        "per": 6.518785,
+        "previousClose": 1749.0
+    },
+    {
+        "ticker": "6462.T",
+        "name": "リケン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.03508772,
+        "eps": 476.4104860288237,
+        "per": 7.1786833,
+        "previousClose": 3420.0
+    },
+    {
+        "ticker": "6463.T",
+        "name": "ＴＰＲ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 58.0,
+        "trailingAnnualDividendYield": 0.031032639,
+        "eps": 132.51653797885692,
+        "per": 14.1039,
+        "previousClose": 1869.0
+    },
+    {
+        "ticker": "6480.T",
+        "name": "日本トムソン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 19.0,
+        "trailingAnnualDividendYield": 0.033450704,
+        "eps": 90.82041744677488,
+        "per": 6.2541003,
+        "previousClose": 568.0
+    },
+    {
+        "ticker": "6481.T",
+        "name": "ＴＨＫ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 117.0,
+        "trailingAnnualDividendYield": 0.04328524,
+        "eps": 152.72049268320242,
+        "per": 17.699,
+        "previousClose": 2703.0
+    },
+    {
+        "ticker": "6486.T",
+        "name": "イーグル工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.03945885,
+        "eps": 156.11200499558416,
+        "per": 11.363636,
+        "previousClose": 1774.0
+    },
+    {
+        "ticker": "6490.T",
+        "name": "日本ピラー工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 133.0,
+        "trailingAnnualDividendYield": 0.032242425,
+        "eps": 449.6200465359473,
+        "per": 9.174413,
+        "previousClose": 4125.0
+    },
+    {
+        "ticker": "6498.T",
+        "name": "キッツ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 36.0,
+        "trailingAnnualDividendYield": 0.034615386,
+        "eps": 108.36446554124612,
+        "per": 9.597242,
+        "previousClose": 1040.0
+    },
+    {
+        "ticker": "6507.T",
+        "name": "シンフォニアテクノロジー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.04638219,
+        "eps": 274.4038902156363,
+        "per": 5.8927736,
+        "previousClose": 1617.0
+    },
+    {
+        "ticker": "6523.T",
+        "name": "ＰＨＣホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 72.0,
+        "trailingAnnualDividendYield": 0.046692606,
+        "eps": 5.8605915769312675,
+        "per": 263.11337,
+        "previousClose": 1542.0
+    },
+    {
+        "ticker": "6535.T",
+        "name": "アイモバイル",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.03028009,
+        "eps": 117.30519855614263,
+        "per": 11.261223,
+        "previousClose": 1321.0
+    },
+    {
+        "ticker": "6539.T",
+        "name": "ＭＳ－Ｊａｐａｎ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 49.0,
+        "trailingAnnualDividendYield": 0.042060085,
+        "eps": 49.283148056898725,
+        "per": 23.638912,
+        "previousClose": 1165.0
+    },
+    {
+        "ticker": "6540.T",
+        "name": "船場",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 33.0,
+        "trailingAnnualDividendYield": 0.036065575,
+        "eps": 60.66847911814155,
+        "per": 15.081967,
+        "previousClose": 915.0
+    },
+    {
+        "ticker": "6543.T",
+        "name": "日宣",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.035897437,
+        "eps": 52.52999732231706,
+        "per": 11.136494,
+        "previousClose": 585.0
+    },
+    {
+        "ticker": "6622.T",
+        "name": "ダイヘン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 162.0,
+        "trailingAnnualDividendYield": 0.030681819,
+        "eps": 498.4359683478056,
+        "per": 10.593136,
+        "previousClose": 5280.0
+    },
+    {
+        "ticker": "6633.T",
+        "name": "Ｃ＆Ｇシステムズ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 13.0,
+        "trailingAnnualDividendYield": 0.036516853,
+        "eps": 27.195261057700094,
+        "per": 13.090516,
+        "previousClose": 356.0
+    },
+    {
+        "ticker": "6643.T",
+        "name": "戸上電機製作所",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.038812786,
+        "eps": 293.02438982487655,
+        "per": 7.4737806,
+        "previousClose": 2190.0
+    },
+    {
+        "ticker": "6644.T",
+        "name": "大崎電気工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.030721966,
+        "eps": 0.06463829512177467,
+        "per": 10071.429,
+        "previousClose": 651.0
+    },
+    {
+        "ticker": "6651.T",
+        "name": "日東工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 145.0,
+        "trailingAnnualDividendYield": 0.038057745,
+        "eps": 169.5474906526377,
+        "per": 22.47158,
+        "previousClose": 3810.0
+    },
+    {
+        "ticker": "6652.T",
+        "name": "ＩＤＥＣ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 130.0,
+        "trailingAnnualDividendYield": 0.041666668,
+        "eps": 311.6870039106729,
+        "per": 10.010042,
+        "previousClose": 3120.0
+    },
+    {
+        "ticker": "6658.T",
+        "name": "シライ電子工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 22.0,
+        "trailingAnnualDividendYield": 0.034755133,
+        "eps": 138.37123244152673,
+        "per": 4.5746503,
+        "previousClose": 633.0
+    },
+    {
+        "ticker": "6676.T",
+        "name": "メルコホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.03767661,
+        "eps": 145.87200544466688,
+        "per": 21.83421,
+        "previousClose": 3185.0
+    },
+    {
+        "ticker": "6694.T",
+        "name": "ズーム",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.04625347,
+        "eps": 110.26595413711534,
+        "per": 9.80357,
+        "previousClose": 1081.0
+    },
+    {
+        "ticker": "6727.T",
+        "name": "ワコム",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.032626428,
+        "eps": 9.130420535552041,
+        "per": 67.1382,
+        "previousClose": 613.0
+    },
+    {
+        "ticker": "6730.T",
+        "name": "アクセル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 62.0,
+        "trailingAnnualDividendYield": 0.034501947,
+        "eps": 146.9926506128661,
+        "per": 12.225101,
+        "previousClose": 1797.0
+    },
+    {
+        "ticker": "6742.T",
+        "name": "京三製作所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 18.0,
+        "trailingAnnualDividendYield": 0.03805497,
+        "eps": 31.88117394435906,
+        "per": 14.836342,
+        "previousClose": 473.0
+    },
+    {
+        "ticker": "6745.T",
+        "name": "ホーチキ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 51.0,
+        "trailingAnnualDividendYield": 0.031116534,
+        "eps": 169.14321993169668,
+        "per": 9.690013,
+        "previousClose": 1639.0
+    },
+    {
+        "ticker": "6748.T",
+        "name": "星和電機",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 15.0,
+        "trailingAnnualDividendYield": 0.030303031,
+        "eps": 67.12560692736264,
+        "per": 7.374235,
+        "previousClose": 495.0
+    },
+    {
+        "ticker": "6754.T",
+        "name": "アンリツ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.036330607,
+        "eps": 49.65623766909562,
+        "per": 22.172441,
+        "previousClose": 1101.0
+    },
+    {
+        "ticker": "6757.T",
+        "name": "ＯＳＧコーポレーション",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.04761905,
+        "eps": 26.96000002567619,
+        "per": 31.15727,
+        "previousClose": 840.0
+    },
+    {
+        "ticker": "6763.T",
+        "name": "帝国通信工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.030596634,
+        "eps": 124.12638382561693,
+        "per": 15.798414,
+        "previousClose": 1961.0
+    },
+    {
+        "ticker": "6770.T",
+        "name": "アルプスアルパイン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.031323414,
+        "eps": 30.651894261862182,
+        "per": 41.661373,
+        "previousClose": 1277.0
+    },
+    {
+        "ticker": "6777.T",
+        "name": "ｓａｎｔｅｃ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.030639602,
+        "eps": 249.87231247303058,
+        "per": 10.449337,
+        "previousClose": 2611.0
+    },
+    {
+        "ticker": "6789.T",
+        "name": "ローランド　ディー．ジー．",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 135.0,
+        "trailingAnnualDividendYield": 0.03857143,
+        "eps": 367.4949653189751,
+        "per": 9.52394,
+        "previousClose": 3500.0
+    },
+    {
+        "ticker": "6798.T",
+        "name": "ＳＭＫ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.03892565,
+        "eps": 43.932609873208506,
+        "per": 58.475925,
+        "previousClose": 2569.0
+    },
+    {
+        "ticker": "6804.T",
+        "name": "ホシデン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 71.0,
+        "trailingAnnualDividendYield": 0.03711448,
+        "eps": 152.27875242547495,
+        "per": 12.562488,
+        "previousClose": 1913.0
+    },
+    {
+        "ticker": "6809.T",
+        "name": "ＴＯＡ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.033927057,
+        "eps": 42.920247009479915,
+        "per": 27.469553,
+        "previousClose": 1179.0
+    },
+    {
+        "ticker": "6853.T",
+        "name": "共和電業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 13.0,
+        "trailingAnnualDividendYield": 0.035519127,
+        "eps": 24.672589346456814,
+        "per": 14.834276,
+        "previousClose": 366.0
+    },
+    {
+        "ticker": "6856.T",
+        "name": "堀場製作所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 260.0,
+        "trailingAnnualDividendYield": 0.03284902,
+        "eps": 981.4559995853457,
+        "per": 8.064549,
+        "previousClose": 7915.0
+    },
+    {
+        "ticker": "6863.T",
+        "name": "ニレコ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 47.0,
+        "trailingAnnualDividendYield": 0.036042944,
+        "eps": 125.70682373078765,
+        "per": 10.373343,
+        "previousClose": 1304.0
+    },
+    {
+        "ticker": "6877.T",
+        "name": "ＯＢＡＲＡ　ＧＲＯＵＰ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 190.0,
+        "trailingAnnualDividendYield": 0.046004843,
+        "eps": 433.23347633884356,
+        "per": 9.532966,
+        "previousClose": 4130.0
+    },
+    {
+        "ticker": "6881.T",
+        "name": "キョウデン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.033388983,
+        "eps": 55.04999624116053,
+        "per": 10.881018,
+        "previousClose": 599.0
+    },
+    {
+        "ticker": "6888.T",
+        "name": "アクモス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 13.0,
+        "trailingAnnualDividendYield": 0.03178484,
+        "eps": 45.887807340321366,
+        "per": 8.913043,
+        "previousClose": 409.0
+    },
+    {
+        "ticker": "6890.T",
+        "name": "フェローテックホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 105.0,
+        "trailingAnnualDividendYield": 0.034539472,
+        "eps": 568.4749593325356,
+        "per": 5.347641,
+        "previousClose": 3040.0
+    },
+    {
+        "ticker": "6894.T",
+        "name": "パルステック工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.044219837,
+        "eps": 176.34888515866498,
+        "per": 8.976524,
+        "previousClose": 1583.0
+    },
+    {
+        "ticker": "6915.T",
+        "name": "千代田インテグレ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.041124057,
+        "eps": 229.35089374144798,
+        "per": 12.722863,
+        "previousClose": 2918.0
+    },
+    {
+        "ticker": "6919.T",
+        "name": "ケル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 95.0,
+        "trailingAnnualDividendYield": 0.04754755,
+        "eps": 219.78000219780003,
+        "per": 9.090909,
+        "previousClose": 1998.0
+    },
+    {
+        "ticker": "6928.T",
+        "name": "エノモト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.03448276,
+        "eps": 139.36998678548252,
+        "per": 12.484754,
+        "previousClose": 1740.0
+    },
+    {
+        "ticker": "6938.T",
+        "name": "双信電機",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 11.0,
+        "trailingAnnualDividendYield": 0.03125,
+        "eps": 32.27507163323782,
+        "per": 10.90625,
+        "previousClose": 352.0
+    },
+    {
+        "ticker": "6941.T",
+        "name": "山一電機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 104.0,
+        "trailingAnnualDividendYield": 0.05909091,
+        "eps": 238.2998335895395,
+        "per": 7.3856535,
+        "previousClose": 1760.0
+    },
+    {
+        "ticker": "6943.T",
+        "name": "ＮＫＫスイッチズ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 150.0,
+        "trailingAnnualDividendYield": 0.030272452,
+        "eps": 772.4819932186838,
+        "per": 6.414389,
+        "previousClose": 4955.0
+    },
+    {
+        "ticker": "6952.T",
+        "name": "カシオ計算機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.035714287,
+        "eps": 51.154612379984584,
+        "per": 24.63121,
+        "previousClose": 1260.0
+    },
+    {
+        "ticker": "6957.T",
+        "name": "芝浦電子",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 200.0,
+        "trailingAnnualDividendYield": 0.033333335,
+        "eps": 486.6009955369767,
+        "per": 12.330431,
+        "previousClose": 6000.0
+    },
+    {
+        "ticker": "6962.T",
+        "name": "大真空",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.03562341,
+        "eps": 50.14343030632564,
+        "per": 15.6750345,
+        "previousClose": 786.0
+    },
+    {
+        "ticker": "6973.T",
+        "name": "協栄産業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.0313059,
+        "eps": 218.01495820518699,
+        "per": 10.256177,
+        "previousClose": 2236.0
+    },
+    {
+        "ticker": "6989.T",
+        "name": "北陸電気工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.036112934,
+        "eps": 88.17789725763845,
+        "per": 17.271902,
+        "previousClose": 1523.0
+    },
+    {
+        "ticker": "6998.T",
+        "name": "日本タングステン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.04696673,
+        "eps": 272.10597457390656,
+        "per": 9.389724,
+        "previousClose": 2555.0
+    },
+    {
+        "ticker": "7022.T",
+        "name": "サノヤスホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.034965035,
+        "eps": 7.879792498062838,
+        "per": 18.147686,
+        "previousClose": 143.0
+    },
+    {
+        "ticker": "7030.T",
+        "name": "スプリックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.045184303,
+        "eps": 48.02578887783262,
+        "per": 17.511425,
+        "previousClose": 841.0
+    },
+    {
+        "ticker": "7040.T",
+        "name": "サン・ライフホールディング",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 32.0,
+        "trailingAnnualDividendYield": 0.036322363,
+        "eps": 108.36698942234858,
+        "per": 8.129782,
+        "previousClose": 881.0
+    },
+    {
+        "ticker": "7057.T",
+        "name": "エヌ・シー・エヌ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.04206099,
+        "eps": 74.84340728743409,
+        "per": 12.70653,
+        "previousClose": 951.0
+    },
+    {
+        "ticker": "7058.T",
+        "name": "共栄セキュリティーサービス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.031131096,
+        "eps": 258.73999261995857,
+        "per": 11.173379,
+        "previousClose": 2891.0
+    },
+    {
+        "ticker": "7087.T",
+        "name": "ウイルテック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.044444446,
+        "eps": 88.10940995771433,
+        "per": 10.214573,
+        "previousClose": 900.0
+    },
+    {
+        "ticker": "7148.T",
+        "name": "ＦＰＧ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.034199726,
+        "eps": 138.15851147150343,
+        "per": 10.582048,
+        "previousClose": 1462.0
+    },
+    {
+        "ticker": "7177.T",
+        "name": "ＧＭＯフィナンシャルホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 36.8,
+        "trailingAnnualDividendYield": 0.048167538,
+        "eps": 4.740665728461616,
+        "per": 161.1588,
+        "previousClose": 764.0
+    },
+    {
+        "ticker": "7181.T",
+        "name": "かんぽ生命保険",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 92.0,
+        "trailingAnnualDividendYield": 0.035853468,
+        "eps": 274.05160628844834,
+        "per": 9.3632,
+        "previousClose": 2566.0
+    },
+    {
+        "ticker": "7182.T",
+        "name": "ゆうちょ銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.038372986,
+        "eps": 86.77701444048105,
+        "per": 15.015497,
+        "previousClose": 1303.0
+    },
+    {
+        "ticker": "7192.T",
+        "name": "日本モーゲージサービス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.03502627,
+        "eps": 64.57690815716052,
+        "per": 8.84217,
+        "previousClose": 571.0
+    },
+    {
+        "ticker": "7196.T",
+        "name": "Ｃａｓａ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.03405221,
+        "eps": 11.541704462146091,
+        "per": 76.33188,
+        "previousClose": 881.0
+    },
+    {
+        "ticker": "7202.T",
+        "name": "いすゞ自動車",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 79.0,
+        "trailingAnnualDividendYield": 0.040575244,
+        "eps": 204.43745836043678,
+        "per": 9.523695,
+        "previousClose": 1947.0
+    },
+    {
+        "ticker": "7208.T",
+        "name": "カネミツ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 28.5,
+        "trailingAnnualDividendYield": 0.036167514,
+        "eps": 111.97894795778394,
+        "per": 7.037037,
+        "previousClose": 788.0
+    },
+    {
+        "ticker": "7217.T",
+        "name": "テイン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 32.0,
+        "trailingAnnualDividendYield": 0.030360531,
+        "eps": 100.02061620386175,
+        "per": 10.5378275,
+        "previousClose": 1054.0
+    },
+    {
+        "ticker": "7224.T",
+        "name": "新明和工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.034351144,
+        "eps": 112.52462657285378,
+        "per": 11.641896,
+        "previousClose": 1310.0
+    },
+    {
+        "ticker": "7228.T",
+        "name": "デイトナ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 123.0,
+        "trailingAnnualDividendYield": 0.03974152,
+        "eps": 540.7005102675446,
+        "per": 5.724056,
+        "previousClose": 3095.0
+    },
+    {
+        "ticker": "7229.T",
+        "name": "ユタカ技研",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 72.0,
+        "trailingAnnualDividendYield": 0.03512195,
+        "eps": 179.57564435683102,
+        "per": 11.415802,
+        "previousClose": 2050.0
+    },
+    {
+        "ticker": "7231.T",
+        "name": "トピー工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 88.0,
+        "trailingAnnualDividendYield": 0.034591194,
+        "eps": 325.1183442274816,
+        "per": 7.824843,
+        "previousClose": 2544.0
+    },
+    {
+        "ticker": "7239.T",
+        "name": "タチエス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 73.6,
+        "trailingAnnualDividendYield": 0.04068546,
+        "eps": 255.2533077950212,
+        "per": 7.0870776,
+        "previousClose": 1809.0
+    },
+    {
+        "ticker": "7240.T",
+        "name": "ＮＯＫ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.03583373,
+        "eps": 78.48873815984447,
+        "per": 26.666246,
+        "previousClose": 2093.0
+    },
+    {
+        "ticker": "7242.T",
+        "name": "ＫＹＢ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 200.0,
+        "trailingAnnualDividendYield": 0.03992016,
+        "eps": 1030.0560486186455,
+        "per": 4.863813,
+        "previousClose": 5010.0
+    },
+    {
+        "ticker": "7246.T",
+        "name": "プレス工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.03008596,
+        "eps": 72.03163365165193,
+        "per": 9.690187,
+        "previousClose": 698.0
+    },
+    {
+        "ticker": "7264.T",
+        "name": "ムロコーポレーション",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 44.0,
+        "trailingAnnualDividendYield": 0.031700287,
+        "eps": 94.10639704505914,
+        "per": 14.749263,
+        "previousClose": 1388.0
+    },
+    {
+        "ticker": "7272.T",
+        "name": "ヤマハ発動機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 140.0,
+        "trailingAnnualDividendYield": 0.035578147,
+        "eps": 568.60944111891,
+        "per": 6.9203916,
+        "previousClose": 3935.0
+    },
+    {
+        "ticker": "7278.T",
+        "name": "エクセディ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.03253796,
+        "eps": 119.77059125362918,
+        "per": 23.09415,
+        "previousClose": 2766.0
+    },
+    {
+        "ticker": "7287.T",
+        "name": "日本精機",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.03436426,
+        "eps": 111.97560855712983,
+        "per": 10.395121,
+        "previousClose": 1164.0
+    },
+    {
+        "ticker": "7297.T",
+        "name": "カーメイト",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.034285713,
+        "eps": 42.16999568661187,
+        "per": 20.74935,
+        "previousClose": 875.0
+    },
+    {
+        "ticker": "7299.T",
+        "name": "フジオーゼックス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 130.0,
+        "trailingAnnualDividendYield": 0.030952381,
+        "eps": 338.51999702102404,
+        "per": 12.406948,
+        "previousClose": 4200.0
+    },
+    {
+        "ticker": "7313.T",
+        "name": "テイ・エス　テック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 63.0,
+        "trailingAnnualDividendYield": 0.035532996,
+        "eps": 51.41500442943308,
+        "per": 34.484097,
+        "previousClose": 1773.0
+    },
+    {
+        "ticker": "7315.T",
+        "name": "ＩＪＴＴ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.03076923,
+        "eps": 25.158705955379215,
+        "per": 25.835987,
+        "previousClose": 650.0
+    },
+    {
+        "ticker": "7327.T",
+        "name": "第四北越フィナンシャルグループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.030075189,
+        "eps": 450.0700315737099,
+        "per": 8.865287,
+        "previousClose": 3990.0
+    },
+    {
+        "ticker": "7338.T",
+        "name": "インヴァスト",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.0474407,
+        "eps": 45.819164285900605,
+        "per": 17.481768,
+        "previousClose": 801.0
+    },
+    {
+        "ticker": "7354.T",
+        "name": "ダイレクトマーケティングミックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 17.0,
+        "trailingAnnualDividendYield": 0.032136105,
+        "eps": 65.27979394784737,
+        "per": 8.1035795,
+        "previousClose": 529.0
+    },
+    {
+        "ticker": "7358.T",
+        "name": "ポピンズ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.03137255,
+        "eps": 53.93685301687221,
+        "per": 23.638754,
+        "previousClose": 1275.0
+    },
+    {
+        "ticker": "7371.T",
+        "name": "全研本社",
+        "segment": "グロース（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.035460994,
+        "eps": 56.74121328609594,
+        "per": 9.939865,
+        "previousClose": 564.0
+    },
+    {
+        "ticker": "7377.T",
+        "name": "ＤＮホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.042075735,
+        "eps": 202.0628147826208,
+        "per": 7.0572114,
+        "previousClose": 1426.0
+    },
+    {
+        "ticker": "7399.T",
+        "name": "ナンシン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.03649635,
+        "eps": 88.45126245857418,
+        "per": 6.1955023,
+        "previousClose": 548.0
+    },
+    {
+        "ticker": "7414.T",
+        "name": "小野建",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.052173913,
+        "eps": 252.36728929602648,
+        "per": 6.8352757,
+        "previousClose": 1725.0
+    },
+    {
+        "ticker": "7417.T",
+        "name": "南陽",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 101.0,
+        "trailingAnnualDividendYield": 0.04527118,
+        "eps": 329.52309028556033,
+        "per": 6.7703905,
+        "previousClose": 2231.0
+    },
+    {
+        "ticker": "7420.T",
+        "name": "佐鳥電機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.039817974,
+        "eps": 137.30000707587067,
+        "per": 12.804078,
+        "previousClose": 1758.0
+    },
+    {
+        "ticker": "7422.T",
+        "name": "東邦レマック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.04223865,
+        "eps": 94.03296151533074,
+        "per": 30.21281,
+        "previousClose": 2841.0
+    },
+    {
+        "ticker": "7426.T",
+        "name": "山大",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.033365108,
+        "eps": 54.54799781808009,
+        "per": 19.23077,
+        "previousClose": 1049.0
+    },
+    {
+        "ticker": "7433.T",
+        "name": "伯東",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 280.0,
+        "trailingAnnualDividendYield": 0.052434456,
+        "eps": 320.934002086071,
+        "per": 16.638935,
+        "previousClose": 5340.0
+    },
+    {
+        "ticker": "7435.T",
+        "name": "ナ・デックス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 43.0,
+        "trailingAnnualDividendYield": 0.0374891,
+        "eps": 148.19402900804445,
+        "per": 7.739853,
+        "previousClose": 1147.0
+    },
+    {
+        "ticker": "7460.T",
+        "name": "ヤギ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.03465704,
+        "eps": 157.47669799675995,
+        "per": 8.794952,
+        "previousClose": 1385.0
+    },
+    {
+        "ticker": "7463.T",
+        "name": "アドヴァングループ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.038647342,
+        "eps": 128.33801281420958,
+        "per": 8.064641,
+        "previousClose": 1035.0
+    },
+    {
+        "ticker": "7464.T",
+        "name": "セフテック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 340.0,
+        "trailingAnnualDividendYield": 0.040816326,
+        "eps": 891.3100374350216,
+        "per": 9.345794,
+        "previousClose": 8330.0
+    },
+    {
+        "ticker": "7467.T",
+        "name": "萩原電気ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 155.0,
+        "trailingAnnualDividendYield": 0.036904763,
+        "eps": 625.7950483966796,
+        "per": 6.7114625,
+        "previousClose": 4200.0
+    },
+    {
+        "ticker": "7472.T",
+        "name": "鳥羽洋行",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.03664122,
+        "eps": 320.94998844580044,
+        "per": 10.204082,
+        "previousClose": 3275.0
+    },
+    {
+        "ticker": "7480.T",
+        "name": "スズデン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 190.0,
+        "trailingAnnualDividendYield": 0.0821089,
+        "eps": 228.39559301129225,
+        "per": 10.131544,
+        "previousClose": 2314.0
+    },
+    {
+        "ticker": "7486.T",
+        "name": "サンリン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 22.0,
+        "trailingAnnualDividendYield": 0.032835823,
+        "eps": 38.05560184707124,
+        "per": 17.605818,
+        "previousClose": 670.0
+    },
+    {
+        "ticker": "7509.T",
+        "name": "アイエーグループ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.033755273,
+        "eps": 567.7373591719895,
+        "per": 6.2616982,
+        "previousClose": 3555.0
+    },
+    {
+        "ticker": "7537.T",
+        "name": "丸文",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.066945605,
+        "eps": 197.05669199001815,
+        "per": 6.0642447,
+        "previousClose": 1195.0
+    },
+    {
+        "ticker": "7539.T",
+        "name": "アイナボホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 49.0,
+        "trailingAnnualDividendYield": 0.037837837,
+        "eps": 114.09126702272539,
+        "per": 11.350562,
+        "previousClose": 1295.0
+    },
+    {
+        "ticker": "7551.T",
+        "name": "ウェッズ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.0466563,
+        "eps": 106.73998425361128,
+        "per": 6.0239844,
+        "previousClose": 643.0
+    },
+    {
+        "ticker": "7570.T",
+        "name": "橋本総業ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.035056967,
+        "eps": 125.73487682720545,
+        "per": 9.07465,
+        "previousClose": 1141.0
+    },
+    {
+        "ticker": "7575.T",
+        "name": "日本ライフライン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.031020408,
+        "eps": 94.20209556214313,
+        "per": 13.003957,
+        "previousClose": 1225.0
+    },
+    {
+        "ticker": "7590.T",
+        "name": "タカショー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 23.0,
+        "trailingAnnualDividendYield": 0.035439137,
+        "eps": 3.9560957492208346,
+        "per": 164.05063,
+        "previousClose": 649.0
+    },
+    {
+        "ticker": "7593.T",
+        "name": "ＶＴホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 22.0,
+        "trailingAnnualDividendYield": 0.041984733,
+        "eps": 60.31490133736783,
+        "per": 8.687737,
+        "previousClose": 524.0
+    },
+    {
+        "ticker": "7599.T",
+        "name": "ＩＤＯＭ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 42.5,
+        "trailingAnnualDividendYield": 0.05629139,
+        "eps": 105.99841521839605,
+        "per": 7.122748,
+        "previousClose": 755.0
+    },
+    {
+        "ticker": "7607.T",
+        "name": "進和",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 84.0,
+        "trailingAnnualDividendYield": 0.03486924,
+        "eps": 256.078489066756,
+        "per": 9.407272,
+        "previousClose": 2409.0
+    },
+    {
+        "ticker": "7609.T",
+        "name": "ダイトロン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 120.0,
+        "trailingAnnualDividendYield": 0.039087947,
+        "eps": 392.0434338152147,
+        "per": 7.830765,
+        "previousClose": 3070.0
+    },
+    {
+        "ticker": "7619.T",
+        "name": "田中商事",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.042979944,
+        "eps": 108.47378733260207,
+        "per": 6.4347343,
+        "previousClose": 698.0
+    },
+    {
+        "ticker": "7628.T",
+        "name": "オーハシテクニカ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 57.0,
+        "trailingAnnualDividendYield": 0.033158813,
+        "eps": 60.16999651651073,
+        "per": 28.569056,
+        "previousClose": 1719.0
+    },
+    {
+        "ticker": "7635.T",
+        "name": "杉田エース",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.037453182,
+        "eps": 131.25999889633445,
+        "per": 8.136523,
+        "previousClose": 1068.0
+    },
+    {
+        "ticker": "7637.T",
+        "name": "白銅",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 109.0,
+        "trailingAnnualDividendYield": 0.045190714,
+        "eps": 204.29649418068382,
+        "per": 11.80637,
+        "previousClose": 2412.0
+    },
+    {
+        "ticker": "7638.T",
+        "name": "ＮＥＷ　ＡＲＴ　ＨＯＬＤＩＮＧＳ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.03888889,
+        "eps": 96.83658025490293,
+        "per": 18.588017,
+        "previousClose": 1800.0
+    },
+    {
+        "ticker": "7670.T",
+        "name": "オーウエル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 27.0,
+        "trailingAnnualDividendYield": 0.033374537,
+        "eps": 67.79379791498457,
+        "per": 11.933245,
+        "previousClose": 809.0
+    },
+    {
+        "ticker": "7702.T",
+        "name": "ＪＭＳ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 17.0,
+        "trailingAnnualDividendYield": 0.030852994,
+        "eps": 3.0299999136642497,
+        "per": 181.84819,
+        "previousClose": 551.0
+    },
+    {
+        "ticker": "7718.T",
+        "name": "スター精密",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.031847134,
+        "eps": 296.35399642172996,
+        "per": 6.357262,
+        "previousClose": 1884.0
+    },
+    {
+        "ticker": "7723.T",
+        "name": "愛知時計電機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.03125,
+        "eps": 237.24363870274098,
+        "per": 7.418534,
+        "previousClose": 1760.0
+    },
+    {
+        "ticker": "7729.T",
+        "name": "東京精密",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 235.0,
+        "trailingAnnualDividendYield": 0.030598959,
+        "eps": 539.89895453629,
+        "per": 14.224884,
+        "previousClose": 7680.0
+    },
+    {
+        "ticker": "7751.T",
+        "name": "キヤノン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 130.0,
+        "trailingAnnualDividendYield": 0.036021058,
+        "eps": 253.35237348843262,
+        "per": 14.244982,
+        "previousClose": 3609.0
+    },
+    {
+        "ticker": "7762.T",
+        "name": "シチズン時計",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 34.0,
+        "trailingAnnualDividendYield": 0.036637932,
+        "eps": 75.0728218506567,
+        "per": 12.361331,
+        "previousClose": 928.0
+    },
+    {
+        "ticker": "7811.T",
+        "name": "中本パックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 62.0,
+        "trailingAnnualDividendYield": 0.0376442,
+        "eps": 133.56780281207668,
+        "per": 12.330816,
+        "previousClose": 1647.0
+    },
+    {
+        "ticker": "7812.T",
+        "name": "クレステック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 83.0,
+        "trailingAnnualDividendYield": 0.04191919,
+        "eps": 262.9479627309775,
+        "per": 7.530007,
+        "previousClose": 1980.0
+    },
+    {
+        "ticker": "7820.T",
+        "name": "ニホンフラッシュ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 36.0,
+        "trailingAnnualDividendYield": 0.0397351,
+        "eps": 70.12300860523865,
+        "per": 12.920153,
+        "previousClose": 906.0
+    },
+    {
+        "ticker": "7823.T",
+        "name": "アートネイチャー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.03345281,
+        "eps": 54.57684912657154,
+        "per": 15.336173,
+        "previousClose": 837.0
+    },
+    {
+        "ticker": "7833.T",
+        "name": "アイフィスジャパン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 18.5,
+        "trailingAnnualDividendYield": 0.030833334,
+        "eps": 59.220001516032035,
+        "per": 10.131712,
+        "previousClose": 600.0
+    },
+    {
+        "ticker": "7844.T",
+        "name": "マーベラス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 33.0,
+        "trailingAnnualDividendYield": 0.04761905,
+        "eps": 28.96838199338752,
+        "per": 23.922634,
+        "previousClose": 693.0
+    },
+    {
+        "ticker": "7860.T",
+        "name": "エイベックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.033783782,
+        "eps": 83.17281822383885,
+        "per": 17.794275,
+        "previousClose": 1480.0
+    },
+    {
+        "ticker": "7865.T",
+        "name": "ピープル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.054995418,
+        "eps": 33.602396851883526,
+        "per": 32.467922,
+        "previousClose": 1091.0
+    },
+    {
+        "ticker": "7879.T",
+        "name": "ノダ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.047021944,
+        "eps": 286.0773977467235,
+        "per": 4.4603314,
+        "previousClose": 1276.0
+    },
+    {
+        "ticker": "7905.T",
+        "name": "大建工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.036124796,
+        "eps": 337.6899963691394,
+        "per": 9.017146,
+        "previousClose": 3045.0
+    },
+    {
+        "ticker": "7914.T",
+        "name": "共同印刷",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.03021148,
+        "eps": 222.4319907468292,
+        "per": 14.880953,
+        "previousClose": 3310.0
+    },
+    {
+        "ticker": "7915.T",
+        "name": "ＮＩＳＳＨＡ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.043655414,
+        "eps": 60.64119129514407,
+        "per": 28.330578,
+        "previousClose": 1718.0
+    },
+    {
+        "ticker": "7916.T",
+        "name": "光村印刷",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.036764707,
+        "eps": 150.2829684643346,
+        "per": 9.049595,
+        "previousClose": 1360.0
+    },
+    {
+        "ticker": "7925.T",
+        "name": "前澤化成工業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.032894738,
+        "eps": 91.05088414601639,
+        "per": 16.693962,
+        "previousClose": 1520.0
+    },
+    {
+        "ticker": "7927.T",
+        "name": "ムトー精工",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 73.5,
+        "trailingAnnualDividendYield": 0.043465406,
+        "eps": 180.93400680872537,
+        "per": 9.345949,
+        "previousClose": 1691.0
+    },
+    {
+        "ticker": "7928.T",
+        "name": "旭化学工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.04145937,
+        "eps": 33.948898743890744,
+        "per": 17.76199,
+        "previousClose": 603.0
+    },
+    {
+        "ticker": "7940.T",
+        "name": "ウェーブロックホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.04491018,
+        "eps": 51.501293545962746,
+        "per": 12.970548,
+        "previousClose": 668.0
+    },
+    {
+        "ticker": "7943.T",
+        "name": "ニチハ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 97.0,
+        "trailingAnnualDividendYield": 0.03134087,
+        "eps": 224.387507292594,
+        "per": 13.793103,
+        "previousClose": 3095.0
+    },
+    {
+        "ticker": "7944.T",
+        "name": "ローランド",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 156.0,
+        "trailingAnnualDividendYield": 0.040206186,
+        "eps": 290.60807867989035,
+        "per": 13.351315,
+        "previousClose": 3880.0
+    },
+    {
+        "ticker": "7953.T",
+        "name": "菊水化学工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 16.0,
+        "trailingAnnualDividendYield": 0.040201005,
+        "eps": 14.530474548869837,
+        "per": 27.390709,
+        "previousClose": 398.0
+    },
+    {
+        "ticker": "7955.T",
+        "name": "クリナップ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 26.0,
+        "trailingAnnualDividendYield": 0.035961274,
+        "eps": 63.62005504762661,
+        "per": 11.364341,
+        "previousClose": 723.0
+    },
+    {
+        "ticker": "7956.T",
+        "name": "ピジョン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 114.0,
+        "trailingAnnualDividendYield": 0.06759561,
+        "eps": 75.89497683256893,
+        "per": 22.221497,
+        "previousClose": 1686.5
+    },
+    {
+        "ticker": "7958.T",
+        "name": "天馬",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 82.0,
+        "trailingAnnualDividendYield": 0.031623602,
+        "eps": 161.02173600930388,
+        "per": 16.103416,
+        "previousClose": 2593.0
+    },
+    {
+        "ticker": "7966.T",
+        "name": "リンテック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 88.0,
+        "trailingAnnualDividendYield": 0.03532009,
+        "eps": 110.1240001103229,
+        "per": 22.624496,
+        "previousClose": 2491.5
+    },
+    {
+        "ticker": "7985.T",
+        "name": "ネポン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.03911343,
+        "eps": 293.4538144251641,
+        "per": 5.2273984,
+        "previousClose": 1534.0
+    },
+    {
+        "ticker": "7995.T",
+        "name": "バルカー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 150.0,
+        "trailingAnnualDividendYield": 0.035252646,
+        "eps": 372.73601197520657,
+        "per": 11.415586,
+        "previousClose": 4255.0
+    },
+    {
+        "ticker": "8005.T",
+        "name": "スクロール",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.04682927,
+        "eps": 121.87319456752317,
+        "per": 8.410381,
+        "previousClose": 1025.0
+    },
+    {
+        "ticker": "8006.T",
+        "name": "ユアサ・フナショク",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.033333335,
+        "eps": 260.3999847926409,
+        "per": 11.520738,
+        "previousClose": 3000.0
+    },
+    {
+        "ticker": "8007.T",
+        "name": "高島",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 170.0,
+        "trailingAnnualDividendYield": 0.042821158,
+        "eps": 410.09850524776306,
+        "per": 9.680601,
+        "previousClose": 3970.0
+    },
+    {
+        "ticker": "8008.T",
+        "name": "ヨンドシーホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 124.5,
+        "trailingAnnualDividendYield": 0.0674066,
+        "eps": 57.99182990252161,
+        "per": 31.849314,
+        "previousClose": 1847.0
+    },
+    {
+        "ticker": "8014.T",
+        "name": "蝶理",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 105.0,
+        "trailingAnnualDividendYield": 0.03529412,
+        "eps": 322.4939590648391,
+        "per": 9.224979,
+        "previousClose": 2975.0
+    },
+    {
+        "ticker": "8018.T",
+        "name": "三共生興",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.03217503,
+        "eps": 56.797328054861104,
+        "per": 13.680221,
+        "previousClose": 777.0
+    },
+    {
+        "ticker": "8020.T",
+        "name": "兼松",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.034230944,
+        "eps": 209.89619861794228,
+        "per": 10.438493,
+        "previousClose": 2191.0
+    },
+    {
+        "ticker": "8023.T",
+        "name": "大興電子通信",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.032208588,
+        "eps": 90.42999978072112,
+        "per": 7.2099967,
+        "previousClose": 652.0
+    },
+    {
+        "ticker": "8040.T",
+        "name": "東京ソワール",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.043715846,
+        "eps": 271.8470877660254,
+        "per": 3.3658628,
+        "previousClose": 915.0
+    },
+    {
+        "ticker": "8046.T",
+        "name": "丸藤シートパイル",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.036900368,
+        "eps": 302.1956203070005,
+        "per": 8.070931,
+        "previousClose": 2439.0
+    },
+    {
+        "ticker": "8051.T",
+        "name": "山善",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.034334764,
+        "eps": 117.89838090608902,
+        "per": 9.881391,
+        "previousClose": 1165.0
+    },
+    {
+        "ticker": "8061.T",
+        "name": "西華産業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.041918956,
+        "eps": 424.03003278125425,
+        "per": 5.0633206,
+        "previousClose": 2147.0
+    },
+    {
+        "ticker": "8065.T",
+        "name": "佐藤商事",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 67.0,
+        "trailingAnnualDividendYield": 0.043309633,
+        "eps": 283.2579794477751,
+        "per": 5.4614525,
+        "previousClose": 1547.0
+    },
+    {
+        "ticker": "8068.T",
+        "name": "菱洋エレクトロ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 140.0,
+        "trailingAnnualDividendYield": 0.04255319,
+        "eps": 341.8354067711464,
+        "per": 9.624515,
+        "previousClose": 3290.0
+    },
+    {
+        "ticker": "8070.T",
+        "name": "東京産業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.035377357,
+        "eps": 17.04752403409392,
+        "per": 49.743294,
+        "previousClose": 848.0
+    },
+    {
+        "ticker": "8074.T",
+        "name": "ユアサ商事",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 140.0,
+        "trailingAnnualDividendYield": 0.03274854,
+        "eps": 572.4219937786098,
+        "per": 7.4682665,
+        "previousClose": 4275.0
+    },
+    {
+        "ticker": "8075.T",
+        "name": "神鋼商事",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 315.0,
+        "trailingAnnualDividendYield": 0.052238807,
+        "eps": 845.4079696314876,
+        "per": 7.132651,
+        "previousClose": 6030.0
+    },
+    {
+        "ticker": "8084.T",
+        "name": "菱電商事",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 74.0,
+        "trailingAnnualDividendYield": 0.031316124,
+        "eps": 230.8613678951266,
+        "per": 10.23558,
+        "previousClose": 2363.0
+    },
+    {
+        "ticker": "8091.T",
+        "name": "ニチモウ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 160.0,
+        "trailingAnnualDividendYield": 0.039408866,
+        "eps": 595.599517124293,
+        "per": 6.816661,
+        "previousClose": 4060.0
+    },
+    {
+        "ticker": "8093.T",
+        "name": "極東貿易",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 81.5,
+        "trailingAnnualDividendYield": 0.041730672,
+        "eps": 84.1697332448682,
+        "per": 23.203115,
+        "previousClose": 1953.0
+    },
+    {
+        "ticker": "8097.T",
+        "name": "三愛オブリ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.030657748,
+        "eps": 171.50561374966435,
+        "per": 10.460299,
+        "previousClose": 1794.0
+    },
+    {
+        "ticker": "8098.T",
+        "name": "稲畑産業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 115.0,
+        "trailingAnnualDividendYield": 0.035439137,
+        "eps": 400.75999903916403,
+        "per": 8.0971155,
+        "previousClose": 3245.0
+    },
+    {
+        "ticker": "8101.T",
+        "name": "ＧＳＩクレオス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 73.0,
+        "trailingAnnualDividendYield": 0.031492665,
+        "eps": 157.15724110802228,
+        "per": 14.749559,
+        "previousClose": 2318.0
+    },
+    {
+        "ticker": "8103.T",
+        "name": "明和産業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.03698225,
+        "eps": 32.11501660645655,
+        "per": 21.049343,
+        "previousClose": 676.0
+    },
+    {
+        "ticker": "8130.T",
+        "name": "サンゲツ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 105.0,
+        "trailingAnnualDividendYield": 0.035152327,
+        "eps": 254.19516699843803,
+        "per": 11.7508135,
+        "previousClose": 2987.0
+    },
+    {
+        "ticker": "8133.T",
+        "name": "伊藤忠エネクス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.032341525,
+        "eps": 127.39158963362064,
+        "per": 12.135809,
+        "previousClose": 1546.0
+    },
+    {
+        "ticker": "8137.T",
+        "name": "サンワテクノス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.040232453,
+        "eps": 366.4184456061072,
+        "per": 6.105042,
+        "previousClose": 2237.0
+    },
+    {
+        "ticker": "8140.T",
+        "name": "リョーサン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 165.0,
+        "trailingAnnualDividendYield": 0.03797468,
+        "eps": 416.6850075199896,
+        "per": 10.427541,
+        "previousClose": 4345.0
+    },
+    {
+        "ticker": "8141.T",
+        "name": "新光商事",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 69.0,
+        "trailingAnnualDividendYield": 0.055735055,
+        "eps": 138.90811934788135,
+        "per": 8.912366,
+        "previousClose": 1238.0
+    },
+    {
+        "ticker": "8144.T",
+        "name": "電響社",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.031421836,
+        "eps": 65.42816411603903,
+        "per": 19.456453,
+        "previousClose": 1273.0
+    },
+    {
+        "ticker": "8150.T",
+        "name": "三信電気",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 135.0,
+        "trailingAnnualDividendYield": 0.060756076,
+        "eps": 263.525049585879,
+        "per": 8.431836,
+        "previousClose": 2222.0
+    },
+    {
+        "ticker": "8159.T",
+        "name": "立花エレテック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.03156787,
+        "eps": 315.32392427093924,
+        "per": 9.041496,
+        "previousClose": 2851.0
+    },
+    {
+        "ticker": "8173.T",
+        "name": "上新電機",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.030181086,
+        "eps": 179.66456012078663,
+        "per": 13.831331,
+        "previousClose": 2485.0
+    },
+    {
+        "ticker": "8203.T",
+        "name": "ＭｒＭａｘＨＤ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 27.0,
+        "trailingAnnualDividendYield": 0.042789225,
+        "eps": 91.94006207338391,
+        "per": 6.863167,
+        "previousClose": 631.0
+    },
+    {
+        "ticker": "8282.T",
+        "name": "ケーズホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 44.0,
+        "trailingAnnualDividendYield": 0.03142857,
+        "eps": 94.36009064230306,
+        "per": 14.836781,
+        "previousClose": 1400.0
+    },
+    {
+        "ticker": "8289.T",
+        "name": "Ｏｌｙｍｐｉｃグループ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.03787879,
+        "eps": 1.0599999735000005,
+        "per": 498.11322,
+        "previousClose": 528.0
+    },
+    {
+        "ticker": "8291.T",
+        "name": "日産東京販売ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 15.0,
+        "trailingAnnualDividendYield": 0.032051284,
+        "eps": 59.15164707761288,
+        "per": 7.9118676,
+        "previousClose": 468.0
+    },
+    {
+        "ticker": "8304.T",
+        "name": "あおぞら銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 192.0,
+        "trailingAnnualDividendYield": 0.06112703,
+        "eps": 61.24899393018765,
+        "per": 51.282475,
+        "previousClose": 3141.0
+    },
+    {
+        "ticker": "8309.T",
+        "name": "三井住友トラスト・ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 210.0,
+        "trailingAnnualDividendYield": 0.035105314,
+        "eps": 448.6500112162503,
+        "per": 13.333333,
+        "previousClose": 5982.0
+    },
+    {
+        "ticker": "8316.T",
+        "name": "三井住友フィナンシャルグループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 240.0,
+        "trailingAnnualDividendYield": 0.032175895,
+        "eps": 596.72,
+        "per": 12.5,
+        "previousClose": 7459.0
+    },
+    {
+        "ticker": "8336.T",
+        "name": "武蔵野銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 95.0,
+        "trailingAnnualDividendYield": 0.032860603,
+        "eps": 343.45240831893767,
+        "per": 8.417469,
+        "previousClose": 2891.0
+    },
+    {
+        "ticker": "8343.T",
+        "name": "秋田銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.032467533,
+        "eps": 200.94041231369556,
+        "per": 10.729549,
+        "previousClose": 2156.0
+    },
+    {
+        "ticker": "8345.T",
+        "name": "岩手銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.031239154,
+        "eps": 300.199792809001,
+        "per": 9.596942,
+        "previousClose": 2881.0
+    },
+    {
+        "ticker": "8349.T",
+        "name": "東北銀行",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.041288193,
+        "eps": 69.6374865663193,
+        "per": 17.390059,
+        "previousClose": 1211.0
+    },
+    {
+        "ticker": "8361.T",
+        "name": "大垣共立銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.031588446,
+        "eps": 96.17845165192567,
+        "per": 23.040504,
+        "previousClose": 2216.0
+    },
+    {
+        "ticker": "8364.T",
+        "name": "清水銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.03567182,
+        "eps": 155.92000543587937,
+        "per": 10.787583,
+        "previousClose": 1682.0
+    },
+    {
+        "ticker": "8381.T",
+        "name": "山陰合同銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 34.0,
+        "trailingAnnualDividendYield": 0.03369673,
+        "eps": 83.24250083242501,
+        "per": 12.121212,
+        "previousClose": 1009.0
+    },
+    {
+        "ticker": "8383.T",
+        "name": "鳥取銀行",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.03526093,
+        "eps": 114.15402888451146,
+        "per": 12.421813,
+        "previousClose": 1418.0
+    },
+    {
+        "ticker": "8387.T",
+        "name": "四国銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.033653848,
+        "eps": 118.66692316978522,
+        "per": 8.764026,
+        "previousClose": 1040.0
+    },
+    {
+        "ticker": "8392.T",
+        "name": "大分銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.03130435,
+        "eps": 340.11444644096554,
+        "per": 8.453037,
+        "previousClose": 2875.0
+    },
+    {
+        "ticker": "8393.T",
+        "name": "宮崎銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.03448276,
+        "eps": 461.39108808476135,
+        "per": 6.2853403,
+        "previousClose": 2900.0
+    },
+    {
+        "ticker": "8395.T",
+        "name": "佐賀銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.033254158,
+        "eps": 264.38351842440386,
+        "per": 7.9619184,
+        "previousClose": 2105.0
+    },
+    {
+        "ticker": "8410.T",
+        "name": "セブン銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 11.0,
+        "trailingAnnualDividendYield": 0.033639144,
+        "eps": 16.385160095791555,
+        "per": 19.957083,
+        "previousClose": 327.0
+    },
+    {
+        "ticker": "8411.T",
+        "name": "みずほフィナンシャルグループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.03215434,
+        "eps": 253.51565362060822,
+        "per": 10.427364,
+        "previousClose": 2643.5
+    },
+    {
+        "ticker": "8473.T",
+        "name": "ＳＢＩホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 150.0,
+        "trailingAnnualDividendYield": 0.04553734,
+        "eps": 202.25277913370238,
+        "per": 16.28655,
+        "previousClose": 3294.0
+    },
+    {
+        "ticker": "8537.T",
+        "name": "大光銀行",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.035038542,
+        "eps": 142.7,
+        "per": 10.0,
+        "previousClose": 1427.0
+    },
+    {
+        "ticker": "8541.T",
+        "name": "愛媛銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.03,
+        "eps": 113.69848435372417,
+        "per": 8.795192,
+        "previousClose": 1000.0
+    },
+    {
+        "ticker": "8542.T",
+        "name": "トマト銀行",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.038639877,
+        "eps": 83.33400416992022,
+        "per": 15.527875,
+        "previousClose": 1294.0
+    },
+    {
+        "ticker": "8544.T",
+        "name": "京葉銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.030129125,
+        "eps": 79.81099108418479,
+        "per": 8.733133,
+        "previousClose": 697.0
+    },
+    {
+        "ticker": "8558.T",
+        "name": "東和銀行",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.03834356,
+        "eps": 45.70046262606353,
+        "per": 14.266814,
+        "previousClose": 652.0
+    },
+    {
+        "ticker": "8563.T",
+        "name": "大東銀行",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.040053405,
+        "eps": 94.82299730379859,
+        "per": 7.8989277,
+        "previousClose": 749.0
+    },
+    {
+        "ticker": "8566.T",
+        "name": "リコーリース",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 145.0,
+        "trailingAnnualDividendYield": 0.03155604,
+        "eps": 358.40999498226006,
+        "per": 12.820513,
+        "previousClose": 4595.0
+    },
+    {
+        "ticker": "8570.T",
+        "name": "イオンフィナンシャルサービス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 53.0,
+        "trailingAnnualDividendYield": 0.03987961,
+        "eps": 121.86490161541143,
+        "per": 10.905519,
+        "previousClose": 1329.0
+    },
+    {
+        "ticker": "8584.T",
+        "name": "ジャックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 190.0,
+        "trailingAnnualDividendYield": 0.035984848,
+        "eps": 663.1660125710403,
+        "per": 7.9618073,
+        "previousClose": 5280.0
+    },
+    {
+        "ticker": "8585.T",
+        "name": "オリエントコーポレーション",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.03439381,
+        "eps": 113.39495726872401,
+        "per": 10.256188,
+        "previousClose": 1163.0
+    },
+    {
+        "ticker": "8593.T",
+        "name": "三菱ＨＣキャピタル",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 33.0,
+        "trailingAnnualDividendYield": 0.031473532,
+        "eps": 82.93865292440029,
+        "per": 12.641874,
+        "previousClose": 1048.5
+    },
+    {
+        "ticker": "8595.T",
+        "name": "ジャフコ　グループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 150.0,
+        "trailingAnnualDividendYield": 0.08453085,
+        "eps": 588.9524664745156,
+        "per": 3.0129766,
+        "previousClose": 1774.5
+    },
+    {
+        "ticker": "8616.T",
+        "name": "東海東京フィナンシャル・ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 16.0,
+        "trailingAnnualDividendYield": 0.033333335,
+        "eps": 15.452192477789003,
+        "per": 31.063553,
+        "previousClose": 480.0
+    },
+    {
+        "ticker": "8628.T",
+        "name": "松井証券",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.0472255,
+        "eps": 32.017799931088014,
+        "per": 26.454035,
+        "previousClose": 847.0
+    },
+    {
+        "ticker": "8630.T",
+        "name": "ＳＯＭＰＯホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 260.0,
+        "trailingAnnualDividendYield": 0.039549742,
+        "eps": 528.5487902632533,
+        "per": 12.43783,
+        "previousClose": 6574.0
+    },
+    {
+        "ticker": "8706.T",
+        "name": "極東証券",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.035005834,
+        "eps": 63.33389942162921,
+        "per": 13.531458,
+        "previousClose": 857.0
+    },
+    {
+        "ticker": "8707.T",
+        "name": "岩井コスモホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.04381161,
+        "eps": 174.01890173106875,
+        "per": 10.493113,
+        "previousClose": 1826.0
+    },
+    {
+        "ticker": "8713.T",
+        "name": "フィデアホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.044483986,
+        "eps": 161.69131803934218,
+        "per": 10.427276,
+        "previousClose": 1686.0
+    },
+    {
+        "ticker": "8714.T",
+        "name": "池田泉州ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.030395137,
+        "eps": 32.370340306731116,
+        "per": 10.163625,
+        "previousClose": 329.0
+    },
+    {
+        "ticker": "8739.T",
+        "name": "スパークス・グループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.0390625,
+        "eps": 135.9325236616399,
+        "per": 11.299724,
+        "previousClose": 1536.0
+    },
+    {
+        "ticker": "8747.T",
+        "name": "豊トラスティ証券",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.041360293,
+        "eps": 176.36469885484522,
+        "per": 6.169035,
+        "previousClose": 1088.0
+    },
+    {
+        "ticker": "8793.T",
+        "name": "ＮＥＣキャピタルソリューション",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 110.0,
+        "trailingAnnualDividendYield": 0.032496307,
+        "eps": 223.74801254257986,
+        "per": 15.128626,
+        "previousClose": 3385.0
+    },
+    {
+        "ticker": "8804.T",
+        "name": "東京建物",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 72.0,
+        "trailingAnnualDividendYield": 0.03413131,
+        "eps": 147.2406700577739,
+        "per": 14.326884,
+        "previousClose": 2109.5
+    },
+    {
+        "ticker": "8835.T",
+        "name": "太平洋興発",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 43.0,
+        "trailingAnnualDividendYield": 0.05354919,
+        "eps": 62.95245114344935,
+        "per": 12.755659,
+        "previousClose": 803.0
+    },
+    {
+        "ticker": "8850.T",
+        "name": "スターツコーポレーション",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 93.0,
+        "trailingAnnualDividendYield": 0.030743802,
+        "eps": 408.9799836408007,
+        "per": 7.39645,
+        "previousClose": 3025.0
+    },
+    {
+        "ticker": "8854.T",
+        "name": "日住サービス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.035612535,
+        "eps": 24.712398462008746,
+        "per": 56.813587,
+        "previousClose": 1404.0
+    },
+    {
+        "ticker": "8860.T",
+        "name": "フジ住宅",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 27.0,
+        "trailingAnnualDividendYield": 0.035714287,
+        "eps": 107.65361066650202,
+        "per": 7.0225234,
+        "previousClose": 756.0
+    },
+    {
+        "ticker": "8869.T",
+        "name": "明和地所",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 45.0,
+        "trailingAnnualDividendYield": 0.040723983,
+        "eps": 188.18158347735044,
+        "per": 5.871988,
+        "previousClose": 1105.0
+    },
+    {
+        "ticker": "8871.T",
+        "name": "ゴールドクレスト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.03717472,
+        "eps": 39.592861017117414,
+        "per": 54.353233,
+        "previousClose": 2152.0
+    },
+    {
+        "ticker": "8881.T",
+        "name": "日神グループホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 22.0,
+        "trailingAnnualDividendYield": 0.04029304,
+        "eps": 54.87595471346762,
+        "per": 9.949713,
+        "previousClose": 546.0
+    },
+    {
+        "ticker": "8887.T",
+        "name": "リベレステ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.07594936,
+        "eps": 71.88602261825456,
+        "per": 10.989619,
+        "previousClose": 790.0
+    },
+    {
+        "ticker": "8889.T",
+        "name": "ＡＰＡＭＡＮ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.041666668,
+        "eps": 16.559999569440013,
+        "per": 28.985508,
+        "previousClose": 480.0
+    },
+    {
+        "ticker": "8892.T",
+        "name": "日本エスコン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.040816326,
+        "eps": 83.87829448669142,
+        "per": 11.099415,
+        "previousClose": 931.0
+    },
+    {
+        "ticker": "8897.T",
+        "name": "タカラレーベン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.04048583,
+        "eps": 37.84320975993233,
+        "per": 13.053861,
+        "previousClose": 494.0
+    },
+    {
+        "ticker": "8903.T",
+        "name": "サンウッド",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.030864198,
+        "eps": 217.88698261391,
+        "per": 3.7175236,
+        "previousClose": 810.0
+    },
+    {
+        "ticker": "8908.T",
+        "name": "毎日コムネット",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.036697246,
+        "eps": 75.83727884313859,
+        "per": 10.061015,
+        "previousClose": 763.0
+    },
+    {
+        "ticker": "8917.T",
+        "name": "ファースト住建",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 43.0,
+        "trailingAnnualDividendYield": 0.035507843,
+        "eps": 140.47200216681836,
+        "per": 8.620935,
+        "previousClose": 1211.0
+    },
+    {
+        "ticker": "8929.T",
+        "name": "青山財産ネットワークス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 37.0,
+        "trailingAnnualDividendYield": 0.033393502,
+        "eps": 73.90300723875954,
+        "per": 14.992624,
+        "previousClose": 1108.0
+    },
+    {
+        "ticker": "8934.T",
+        "name": "サンフロンティア不動産",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.03183024,
+        "eps": 203.43254649590475,
+        "per": 7.4127765,
+        "previousClose": 1508.0
+    },
+    {
+        "ticker": "8935.T",
+        "name": "ＦＪネクストホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.04411765,
+        "eps": 165.48065353968062,
+        "per": 6.5747867,
+        "previousClose": 1088.0
+    },
+    {
+        "ticker": "8940.T",
+        "name": "インテリックス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 18.0,
+        "trailingAnnualDividendYield": 0.034351144,
+        "eps": 11.527999354432035,
+        "per": 45.454548,
+        "previousClose": 524.0
+    },
+    {
+        "ticker": "8945.T",
+        "name": "サンネクスタグループ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 37.0,
+        "trailingAnnualDividendYield": 0.038421597,
+        "eps": 61.924183065375665,
+        "per": 15.551275,
+        "previousClose": 963.0
+    },
+    {
+        "ticker": "8951.T",
+        "name": "日本ビルファンド投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 23000.0,
+        "trailingAnnualDividendYield": 0.03782895,
+        "eps": 26812.79995441824,
+        "per": 22.675737,
+        "previousClose": 608000.0
+    },
+    {
+        "ticker": "8952.T",
+        "name": "ジャパンリアルエステイト投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 23167.0,
+        "trailingAnnualDividendYield": 0.038936134,
+        "eps": 23681.0001326136,
+        "per": 25.125628,
+        "previousClose": 595000.0
+    },
+    {
+        "ticker": "8953.T",
+        "name": "日本都市ファンド投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 4576.0,
+        "trailingAnnualDividendYield": 0.04707819,
+        "eps": 4548.960078242113,
+        "per": 21.367521,
+        "previousClose": 97200.0
+    },
+    {
+        "ticker": "8954.T",
+        "name": "オリックス不動産投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 7920.0,
+        "trailingAnnualDividendYield": 0.044221107,
+        "eps": 8346.060181944113,
+        "per": 21.459227,
+        "previousClose": 179100.0
+    },
+    {
+        "ticker": "8955.T",
+        "name": "日本プライムリアルティ投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 15350.0,
+        "trailingAnnualDividendYield": 0.041598916,
+        "eps": 17010.899191982287,
+        "per": 21.691975,
+        "previousClose": 369000.0
+    },
+    {
+        "ticker": "8956.T",
+        "name": "ＮＴＴ都市開発リート投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 6003.0,
+        "trailingAnnualDividendYield": 0.04331169,
+        "eps": 6334.020021535669,
+        "per": 21.881838,
+        "previousClose": 138600.0
+    },
+    {
+        "ticker": "8960.T",
+        "name": "ユナイテッド・アーバン投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 6373.0,
+        "trailingAnnualDividendYield": 0.040437818,
+        "eps": 5468.7201525772925,
+        "per": 28.818443,
+        "previousClose": 157600.0
+    },
+    {
+        "ticker": "8961.T",
+        "name": "森トラスト総合リート投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 6049.09,
+        "trailingAnnualDividendYield": 0.08119584,
+        "eps": 3009.7999085020824,
+        "per": 24.752476,
+        "previousClose": 74500.0
+    },
+    {
+        "ticker": "8963.T",
+        "name": "インヴィンシブル投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 2296.0,
+        "trailingAnnualDividendYield": 0.03661882,
+        "eps": 344.8500034485,
+        "per": 181.81818,
+        "previousClose": 62700.0
+    },
+    {
+        "ticker": "8964.T",
+        "name": "フロンティア不動産投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 22231.0,
+        "trailingAnnualDividendYield": 0.047400855,
+        "eps": 22042.999735484,
+        "per": 21.276596,
+        "previousClose": 469000.0
+    },
+    {
+        "ticker": "8966.T",
+        "name": "平和不動産リート投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 6290.0,
+        "trailingAnnualDividendYield": 0.04264407,
+        "eps": 6386.7500613128,
+        "per": 23.094688,
+        "previousClose": 147500.0
+    },
+    {
+        "ticker": "8967.T",
+        "name": "日本ロジスティクスファンド投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 10190.0,
+        "trailingAnnualDividendYield": 0.034554087,
+        "eps": 10144.560154197316,
+        "per": 29.069767,
+        "previousClose": 294900.0
+    },
+    {
+        "ticker": "8968.T",
+        "name": "福岡リート投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 7103.0,
+        "trailingAnnualDividendYield": 0.043683887,
+        "eps": 7056.839894147402,
+        "per": 23.041475,
+        "previousClose": 162600.0
+    },
+    {
+        "ticker": "8972.T",
+        "name": "ケネディクス・オフィス投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 14891.0,
+        "trailingAnnualDividendYield": 0.04347737,
+        "eps": 14487.750575163696,
+        "per": 23.640661,
+        "previousClose": 342500.0
+    },
+    {
+        "ticker": "8976.T",
+        "name": "大和証券オフィス投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 27400.0,
+        "trailingAnnualDividendYield": 0.040353462,
+        "eps": 28857.50093786878,
+        "per": 23.529411,
+        "previousClose": 679000.0
+    },
+    {
+        "ticker": "8984.T",
+        "name": "大和ハウスリート投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 11266.0,
+        "trailingAnnualDividendYield": 0.042852797,
+        "eps": 9516.979790626445,
+        "per": 27.62431,
+        "previousClose": 262900.0
+    },
+    {
+        "ticker": "8995.T",
+        "name": "誠建設工業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 25.0,
+        "trailingAnnualDividendYield": 0.03101737,
+        "eps": 119.28393528062138,
+        "per": 6.756987,
+        "previousClose": 806.0
+    },
+    {
+        "ticker": "8999.T",
+        "name": "グランディハウス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 32.0,
+        "trailingAnnualDividendYield": 0.050955415,
+        "eps": 51.74366255485817,
+        "per": 12.136752,
+        "previousClose": 628.0
+    },
+    {
+        "ticker": "9028.T",
+        "name": "ゼロ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 51.0,
+        "trailingAnnualDividendYield": 0.03544128,
+        "eps": 184.62529340859479,
+        "per": 7.794165,
+        "previousClose": 1439.0
+    },
+    {
+        "ticker": "9029.T",
+        "name": "ヒガシトゥエンティワン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.03177966,
+        "eps": 99.78576714589556,
+        "per": 9.460267,
+        "previousClose": 944.0
+    },
+    {
+        "ticker": "9057.T",
+        "name": "遠州トラック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 94.0,
+        "trailingAnnualDividendYield": 0.038367346,
+        "eps": 291.5450507312188,
+        "per": 8.403504,
+        "previousClose": 2450.0
+    },
+    {
+        "ticker": "9066.T",
+        "name": "日新",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.031701304,
+        "eps": 496.5456930476607,
+        "per": 5.7175,
+        "previousClose": 2839.0
+    },
+    {
+        "ticker": "9067.T",
+        "name": "丸運",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 8.0,
+        "trailingAnnualDividendYield": 0.03137255,
+        "eps": 14.00094371851229,
+        "per": 18.213058,
+        "previousClose": 255.0
+    },
+    {
+        "ticker": "9069.T",
+        "name": "センコーグループホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 34.0,
+        "trailingAnnualDividendYield": 0.030965392,
+        "eps": 92.12220102255644,
+        "per": 11.918951,
+        "previousClose": 1098.0
+    },
+    {
+        "ticker": "9074.T",
+        "name": "日本石油輸送",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.03287071,
+        "eps": 332.6714734333032,
+        "per": 8.230342,
+        "previousClose": 2738.0
+    },
+    {
+        "ticker": "9101.T",
+        "name": "日本郵船",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 520.0,
+        "trailingAnnualDividendYield": 0.12795275,
+        "eps": 1427.2749002400167,
+        "per": 2.8473842,
+        "previousClose": 4064.0
+    },
+    {
+        "ticker": "9104.T",
+        "name": "商船三井",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 560.0,
+        "trailingAnnualDividendYield": 0.12870604,
+        "eps": 1648.1547560874906,
+        "per": 2.639922,
+        "previousClose": 4351.0
+    },
+    {
+        "ticker": "9107.T",
+        "name": "川崎汽船",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 400.0,
+        "trailingAnnualDividendYield": 0.07430801,
+        "eps": 1776.3900177639002,
+        "per": 3.030303,
+        "previousClose": 5383.0
+    },
+    {
+        "ticker": "9110.T",
+        "name": "ＮＳユナイテッド海運",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 365.0,
+        "trailingAnnualDividendYield": 0.0880579,
+        "eps": 981.1219822214542,
+        "per": 4.224755,
+        "previousClose": 4145.0
+    },
+    {
+        "ticker": "9119.T",
+        "name": "飯野海運",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 65.0,
+        "trailingAnnualDividendYield": 0.059687786,
+        "eps": 209.30241810408643,
+        "per": 5.2029977,
+        "previousClose": 1089.0
+    },
+    {
+        "ticker": "9127.T",
+        "name": "玉井商船",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.042666666,
+        "eps": 340.4952158787792,
+        "per": 5.5066853,
+        "previousClose": 1875.0
+    },
+    {
+        "ticker": "9147.T",
+        "name": "ＮＩＰＰＯＮ　ＥＸＰＲＥＳＳホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 300.0,
+        "trailingAnnualDividendYield": 0.03904725,
+        "eps": 519.3739566510337,
+        "per": 14.7928095,
+        "previousClose": 7683.0
+    },
+    {
+        "ticker": "9193.T",
+        "name": "東京汽船",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 20.0,
+        "trailingAnnualDividendYield": 0.031496063,
+        "eps": 38.858804422903,
+        "per": 16.341213,
+        "previousClose": 635.0
+    },
+    {
+        "ticker": "9247.T",
+        "name": "ＴＲＥホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.032258064,
+        "eps": 102.42103503394101,
+        "per": 12.106888,
+        "previousClose": 1240.0
+    },
+    {
+        "ticker": "9264.T",
+        "name": "ポエック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 38.0,
+        "trailingAnnualDividendYield": 0.039583333,
+        "eps": 14.017242376226289,
+        "per": 68.48708,
+        "previousClose": 960.0
+    },
+    {
+        "ticker": "9268.T",
+        "name": "オプティマスグループ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 53.0,
+        "trailingAnnualDividendYield": 0.034799736,
+        "eps": 161.2862744533237,
+        "per": 9.442837,
+        "previousClose": 1523.0
+    },
+    {
+        "ticker": "9282.T",
+        "name": "いちごグリーンインフラ投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 4095.0,
+        "trailingAnnualDividendYield": 0.05671745,
+        "eps": 2794.13992232291,
+        "per": 25.839794,
+        "previousClose": 72200.0
+    },
+    {
+        "ticker": "9284.T",
+        "name": "カナディアン・ソーラー・インフラ投資法人",
+        "segment": "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
+        "trailingAnnualDividendRate": 7500.0,
+        "trailingAnnualDividendYield": 0.06234414,
+        "eps": 7013.490270720725,
+        "per": 17.152658,
+        "previousClose": 120300.0
+    },
+    {
+        "ticker": "9302.T",
+        "name": "三井倉庫ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 189.0,
+        "trailingAnnualDividendYield": 0.043498274,
+        "eps": 587.8794784019371,
+        "per": 7.3909707,
+        "previousClose": 4345.0
+    },
+    {
+        "ticker": "9303.T",
+        "name": "住友倉庫",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.039432175,
+        "eps": 178.534003511685,
+        "per": 14.204577,
+        "previousClose": 2536.0
+    },
+    {
+        "ticker": "9306.T",
+        "name": "東陽倉庫",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.03448276,
+        "eps": 36.68954998116182,
+        "per": 7.904158,
+        "previousClose": 290.0
+    },
+    {
+        "ticker": "9308.T",
+        "name": "乾汽船",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 184.0,
+        "trailingAnnualDividendYield": 0.14731786,
+        "eps": 220.94957546812253,
+        "per": 5.6528735,
+        "previousClose": 1249.0
+    },
+    {
+        "ticker": "9312.T",
+        "name": "ケイヒン",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.036784027,
+        "eps": 362.32727741590855,
+        "per": 5.2521577,
+        "previousClose": 1903.0
+    },
+    {
+        "ticker": "9351.T",
+        "name": "東洋埠頭",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 55.0,
+        "trailingAnnualDividendYield": 0.03726287,
+        "eps": 146.41920234270722,
+        "per": 10.080645,
+        "previousClose": 1476.0
+    },
+    {
+        "ticker": "9361.T",
+        "name": "伏木海陸運送",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.038734667,
+        "eps": 296.9418820134308,
+        "per": 5.216509,
+        "previousClose": 1549.0
+    },
+    {
+        "ticker": "9362.T",
+        "name": "兵機海運",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 115.0,
+        "trailingAnnualDividendYield": 0.05463183,
+        "eps": 334.26918117548416,
+        "per": 6.29732,
+        "previousClose": 2105.0
+    },
+    {
+        "ticker": "9365.T",
+        "name": "トレーディア",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.035536602,
+        "eps": 369.76378217628195,
+        "per": 3.805132,
+        "previousClose": 1407.0
+    },
+    {
+        "ticker": "9366.T",
+        "name": "サンリツ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.06684492,
+        "eps": 165.37999702404446,
+        "per": 4.522917,
+        "previousClose": 748.0
+    },
+    {
+        "ticker": "9368.T",
+        "name": "キムラユニティー",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 42.0,
+        "trailingAnnualDividendYield": 0.030150754,
+        "eps": 115.20270465847318,
+        "per": 12.09173,
+        "previousClose": 1393.0
+    },
+    {
+        "ticker": "9377.T",
+        "name": "エージーピー",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.033333335,
+        "eps": 52.82524060429727,
+        "per": 17.03731,
+        "previousClose": 900.0
+    },
+    {
+        "ticker": "9384.T",
+        "name": "内外トランスライン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.032717474,
+        "eps": 411.2655089284032,
+        "per": 6.317087,
+        "previousClose": 2598.0
+    },
+    {
+        "ticker": "9434.T",
+        "name": "ソフトバンク",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 86.0,
+        "trailingAnnualDividendYield": 0.04921316,
+        "eps": 114.98460259117061,
+        "per": 15.197687,
+        "previousClose": 1747.5
+    },
+    {
+        "ticker": "9444.T",
+        "name": "トーシンホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 24.0,
+        "trailingAnnualDividendYield": 0.036199097,
+        "eps": 60.40110157761665,
+        "per": 10.976621,
+        "previousClose": 663.0
+    },
+    {
+        "ticker": "9445.T",
+        "name": "フォーバルテレコム",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 17.0,
+        "trailingAnnualDividendYield": 0.04644809,
+        "eps": 24.782288274619173,
+        "per": 14.768612,
+        "previousClose": 366.0
+    },
+    {
+        "ticker": "9446.T",
+        "name": "サカイホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 33.0,
+        "trailingAnnualDividendYield": 0.05305466,
+        "eps": 83.84124458148997,
+        "per": 7.418783,
+        "previousClose": 622.0
+    },
+    {
+        "ticker": "9513.T",
+        "name": "電源開発",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.036050472,
+        "eps": 631.613009077492,
+        "per": 3.9525785,
+        "previousClose": 2496.5
+    },
+    {
+        "ticker": "9536.T",
+        "name": "西部ガスホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.033980582,
+        "eps": 370.59459275863924,
+        "per": 5.5586348,
+        "previousClose": 2060.0
+    },
+    {
+        "ticker": "9619.T",
+        "name": "イチネンホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.035688795,
+        "eps": 249.23420965635086,
+        "per": 5.6212187,
+        "previousClose": 1401.0
+    },
+    {
+        "ticker": "9622.T",
+        "name": "スペース",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 36.0,
+        "trailingAnnualDividendYield": 0.038751345,
+        "eps": 53.228116225453896,
+        "per": 17.453182,
+        "previousClose": 929.0
+    },
+    {
+        "ticker": "9639.T",
+        "name": "三協フロンテア",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 155.0,
+        "trailingAnnualDividendYield": 0.036556605,
+        "eps": 424.42000603797516,
+        "per": 9.990104,
+        "previousClose": 4240.0
+    },
+    {
+        "ticker": "9640.T",
+        "name": "セゾン情報システムズ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 90.0,
+        "trailingAnnualDividendYield": 0.04491018,
+        "eps": 86.77660506191667,
+        "per": 23.093782,
+        "previousClose": 2004.0
+    },
+    {
+        "ticker": "9644.T",
+        "name": "タナベ経営",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 42.0,
+        "trailingAnnualDividendYield": 0.037069727,
+        "eps": 42.70917127621638,
+        "per": 26.52826,
+        "previousClose": 1133.0
+    },
+    {
+        "ticker": "9651.T",
+        "name": "日本プロセス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.036958817,
+        "eps": 70.45680112730881,
+        "per": 13.44086,
+        "previousClose": 947.0
+    },
+    {
+        "ticker": "9686.T",
+        "name": "東洋テック",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 33.0,
+        "trailingAnnualDividendYield": 0.030470913,
+        "eps": 78.62338082933292,
+        "per": 13.7745285,
+        "previousClose": 1083.0
+    },
+    {
+        "ticker": "9687.T",
+        "name": "ＫＳＫ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 80.0,
+        "trailingAnnualDividendYield": 0.031620555,
+        "eps": 248.4427890757054,
+        "per": 10.183431,
+        "previousClose": 2530.0
+    },
+    {
+        "ticker": "9692.T",
+        "name": "シーイーシー",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 65.0,
+        "trailingAnnualDividendYield": 0.038212817,
+        "eps": 122.81358781810506,
+        "per": 13.850259,
+        "previousClose": 1701.0
+    },
+    {
+        "ticker": "9698.T",
+        "name": "クレオ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.042735044,
+        "eps": 68.70299606719388,
+        "per": 13.62386,
+        "previousClose": 936.0
+    },
+    {
+        "ticker": "9709.T",
+        "name": "ＮＣＳ＆Ａ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 28.0,
+        "trailingAnnualDividendYield": 0.040697675,
+        "eps": 85.44959777831046,
+        "per": 8.05153,
+        "previousClose": 688.0
+    },
+    {
+        "ticker": "9715.T",
+        "name": "トランス・コスモス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 117.0,
+        "trailingAnnualDividendYield": 0.0365625,
+        "eps": 282.8760538790484,
+        "per": 11.312375,
+        "previousClose": 3200.0
+    },
+    {
+        "ticker": "9729.T",
+        "name": "トーカイ",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.031136481,
+        "eps": 172.85625723953314,
+        "per": 11.147991,
+        "previousClose": 1927.0
+    },
+    {
+        "ticker": "9733.T",
+        "name": "ナガセ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.05221932,
+        "eps": 111.07201840071838,
+        "per": 17.241066,
+        "previousClose": 1915.0
+    },
+    {
+        "ticker": "9743.T",
+        "name": "丹青社",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.03188098,
+        "eps": 19.766087158319763,
+        "per": 47.606792,
+        "previousClose": 941.0
+    },
+    {
+        "ticker": "9744.T",
+        "name": "メイテック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 102.0,
+        "trailingAnnualDividendYield": 0.039420288,
+        "eps": 157.57505779579074,
+        "per": 16.420746,
+        "previousClose": 2587.5
+    },
+    {
+        "ticker": "9757.T",
+        "name": "船井総研ホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 85.0,
+        "trailingAnnualDividendYield": 0.031112738,
+        "eps": 92.34120304363636,
+        "per": 29.585926,
+        "previousClose": 2732.0
+    },
+    {
+        "ticker": "9761.T",
+        "name": "東海リース",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.030557677,
+        "eps": 141.76510442748992,
+        "per": 9.233584,
+        "previousClose": 1309.0
+    },
+    {
+        "ticker": "9763.T",
+        "name": "丸紅建材リース",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.035410766,
+        "eps": 358.3656111953417,
+        "per": 7.8802204,
+        "previousClose": 2824.0
+    },
+    {
+        "ticker": "9769.T",
+        "name": "学究社",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 87.0,
+        "trailingAnnualDividendYield": 0.042941757,
+        "eps": 169.37720353388062,
+        "per": 11.961468,
+        "previousClose": 2026.0
+    },
+    {
+        "ticker": "9783.T",
+        "name": "ベネッセホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.031838685,
+        "eps": 124.1903409240684,
+        "per": 15.174288,
+        "previousClose": 1884.5
+    },
+    {
+        "ticker": "9788.T",
+        "name": "ナック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 40.0,
+        "trailingAnnualDividendYield": 0.040733196,
+        "eps": 89.35701530825806,
+        "per": 10.989624,
+        "previousClose": 982.0
+    },
+    {
+        "ticker": "9832.T",
+        "name": "オートバックスセブン",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 60.0,
+        "trailingAnnualDividendYield": 0.0375,
+        "eps": 87.19576987161622,
+        "per": 18.349514,
+        "previousClose": 1600.0
+    },
+    {
+        "ticker": "9837.T",
+        "name": "モリト",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 45.5,
+        "trailingAnnualDividendYield": 0.034210525,
+        "eps": 78.47198871561001,
+        "per": 16.948723,
+        "previousClose": 1330.0
+    },
+    {
+        "ticker": "9856.T",
+        "name": "ケーユーホールディングス",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 63.0,
+        "trailingAnnualDividendYield": 0.05092967,
+        "eps": 192.7290991991475,
+        "per": 6.4183354,
+        "previousClose": 1237.0
+    },
+    {
+        "ticker": "9857.T",
+        "name": "英和",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 53.0,
+        "trailingAnnualDividendYield": 0.03167962,
+        "eps": 245.9350378106378,
+        "per": 6.8026094,
+        "previousClose": 1673.0
+    },
+    {
+        "ticker": "9880.T",
+        "name": "イノテック",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 70.0,
+        "trailingAnnualDividendYield": 0.043370508,
+        "eps": 116.53376594749064,
+        "per": 13.850063,
+        "previousClose": 1614.0
+    },
+    {
+        "ticker": "9882.T",
+        "name": "イエローハット",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 62.0,
+        "trailingAnnualDividendYield": 0.03215768,
+        "eps": 225.76740278198602,
+        "per": 8.5397625,
+        "previousClose": 1928.0
+    },
+    {
+        "ticker": "9888.T",
+        "name": "ＵＥＸ",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.07830854,
+        "eps": 231.13498681426483,
+        "per": 5.52491,
+        "previousClose": 1277.0
+    },
+    {
+        "ticker": "9896.T",
+        "name": "ＪＫホールディングス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.034895316,
+        "eps": 176.3316015800296,
+        "per": 5.6881466,
+        "previousClose": 1003.0
+    },
+    {
+        "ticker": "9906.T",
+        "name": "藤井産業",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 65.0,
+        "trailingAnnualDividendYield": 0.030967128,
+        "eps": 357.25362813696216,
+        "per": 5.8753777,
+        "previousClose": 2099.0
+    },
+    {
+        "ticker": "9908.T",
+        "name": "日本電計",
+        "segment": "スタンダード（内国株式）",
+        "trailingAnnualDividendRate": 75.0,
+        "trailingAnnualDividendYield": 0.03698225,
+        "eps": 244.98514324564002,
+        "per": 8.278053,
+        "previousClose": 2028.0
+    },
+    {
+        "ticker": "9934.T",
+        "name": "因幡電機産業",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.03058104,
+        "eps": 267.15505115447337,
+        "per": 12.240083,
+        "previousClose": 3270.0
+    },
+    {
+        "ticker": "9960.T",
+        "name": "東テク",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 162.0,
+        "trailingAnnualDividendYield": 0.030566039,
+        "eps": 383.7239087652243,
+        "per": 13.812014,
+        "previousClose": 5300.0
+    },
+    {
+        "ticker": "9991.T",
+        "name": "ジェコス",
+        "segment": "プライム（内国株式）",
+        "trailingAnnualDividendRate": 35.0,
+        "trailingAnnualDividendYield": 0.036344755,
+        "eps": 107.47277272722707,
+        "per": 8.960409,
+        "previousClose": 963.0
+    }
+]
